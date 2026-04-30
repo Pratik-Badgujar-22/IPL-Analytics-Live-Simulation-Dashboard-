@@ -1,0 +1,1096 @@
+id,season,city,date,team1,team2,toss_winner,winner,venue,status,score,last_updated
+336003,2007/08,Chandigarh,5/3/2008,Kings XI Punjab,Kolkata Knight Riders,Kings XI Punjab,Kings XI Punjab,"Punjab Cricket Association Stadium, Mohali",NULL,NULL,NULL
+336034,2007/08,Bangalore,5/3/2008,Royal Challengers Bangalore,Deccan Chargers,Deccan Chargers,Royal Challengers Bangalore,M Chinnaswamy Stadium,NULL,NULL,NULL
+336004,2007/08,Mumbai,5/4/2008,Mumbai Indians,Delhi Daredevils,Delhi Daredevils,Mumbai Indians,Dr DY Patil Sports Academy,NULL,NULL,NULL
+336005,2007/08,Jaipur,5/4/2008,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,Rajasthan Royals,Sawai Mansingh Stadium,NULL,NULL,NULL
+336006,2007/08,Bangalore,5/5/2008,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,Kings XI Punjab,M Chinnaswamy Stadium,NULL,NULL,NULL
+336007,2007/08,Chennai,5/6/2008,Chennai Super Kings,Deccan Chargers,Deccan Chargers,Deccan Chargers,"MA Chidambaram Stadium, Chepauk",NULL,NULL,NULL
+336008,2007/08,Mumbai,5/7/2008,Mumbai Indians,Rajasthan Royals,Mumbai Indians,Mumbai Indians,Dr DY Patil Sports Academy,NULL,NULL,NULL
+336009,2007/08,Delhi,5/8/2008,Delhi Daredevils,Chennai Super Kings,Chennai Super Kings,Chennai Super Kings,Feroz Shah Kotla,NULL,NULL,NULL
+336010,2007/08,Kolkata,5/8/2008,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,Eden Gardens,NULL,NULL,NULL
+336011,2007/08,Jaipur,5/9/2008,Rajasthan Royals,Deccan Chargers,Rajasthan Royals,Rajasthan Royals,Sawai Mansingh Stadium,NULL,NULL,NULL
+336013,2007/08,Chennai,5/10/2008,Chennai Super Kings,Kings XI Punjab,Kings XI Punjab,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk",NULL,NULL,NULL
+336014,2007/08,Hyderabad,5/11/2008,Deccan Chargers,Kolkata Knight Riders,Kolkata Knight Riders,Kolkata Knight Riders,"Rajiv Gandhi International Stadium, Uppal",NULL,NULL,NULL
+336015,2007/08,Jaipur,5/11/2008,Rajasthan Royals,Delhi Daredevils,Rajasthan Royals,Rajasthan Royals,Sawai Mansingh Stadium,NULL,NULL,NULL
+336016,2007/08,Chandigarh,5/12/2008,Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,Kings XI Punjab,"Punjab Cricket Association Stadium, Mohali",NULL,NULL,NULL
+336017,2007/08,Kolkata,5/13/2008,Kolkata Knight Riders,Delhi Daredevils,Kolkata Knight Riders,Kolkata Knight Riders,Eden Gardens,NULL,NULL,NULL
+336018,2007/08,Mumbai,5/14/2008,Mumbai Indians,Chennai Super Kings,Mumbai Indians,Mumbai Indians,Wankhede Stadium,NULL,NULL,NULL
+336020,2007/08,Delhi,5/15/2008,Delhi Daredevils,Deccan Chargers,Deccan Chargers,Delhi Daredevils,Feroz Shah Kotla,NULL,NULL,NULL
+336021,2007/08,Mumbai,5/16/2008,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,Wankhede Stadium,NULL,NULL,NULL
+336022,2007/08,Delhi,5/17/2008,Delhi Daredevils,Kings XI Punjab,Delhi Daredevils,Kings XI Punjab,Feroz Shah Kotla,NULL,NULL,NULL
+336023,2007/08,Jaipur,5/17/2008,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,Rajasthan Royals,Sawai Mansingh Stadium,NULL,NULL,NULL
+336024,2007/08,Hyderabad,5/18/2008,Deccan Chargers,Mumbai Indians,Deccan Chargers,Mumbai Indians,"Rajiv Gandhi International Stadium, Uppal",NULL,NULL,NULL
+336025,2007/08,Kolkata,5/18/2008,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,Eden Gardens,NULL,NULL,NULL
+336026,2007/08,Bangalore,5/19/2008,Royal Challengers Bangalore,Delhi Daredevils,Delhi Daredevils,Delhi Daredevils,M Chinnaswamy Stadium,NULL,NULL,NULL
+336027,2007/08,Kolkata,5/20/2008,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,Rajasthan Royals,Eden Gardens,NULL,NULL,NULL
+336028,2007/08,Mumbai,5/21/2008,Mumbai Indians,Kings XI Punjab,Mumbai Indians,Kings XI Punjab,Wankhede Stadium,NULL,NULL,NULL
+336029,2007/08,Chennai,5/21/2008,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,Royal Challengers Bangalore,"MA Chidambaram Stadium, Chepauk",NULL,NULL,NULL
+336031,2007/08,Chandigarh,5/23/2008,Kings XI Punjab,Deccan Chargers,Kings XI Punjab,Kings XI Punjab,"Punjab Cricket Association Stadium, Mohali",NULL,NULL,NULL
+336032,2007/08,Delhi,5/24/2008,Delhi Daredevils,Mumbai Indians,Delhi Daredevils,Delhi Daredevils,Feroz Shah Kotla,NULL,NULL,NULL
+336033,2007/08,Chennai,5/24/2008,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,Rajasthan Royals,"MA Chidambaram Stadium, Chepauk",NULL,NULL,NULL
+336002,2007/08,Hyderabad,5/25/2008,Deccan Chargers,Royal Challengers Bangalore,Deccan Chargers,Royal Challengers Bangalore,"Rajiv Gandhi International Stadium, Uppal",NULL,NULL,NULL
+336035,2007/08,Kolkata,5/25/2008,Kolkata Knight Riders,Kings XI Punjab,Kings XI Punjab,Kolkata Knight Riders,Eden Gardens,NULL,NULL,NULL
+335983,2007/08,Chandigarh,4/19/2008,Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,Chennai Super Kings,"Punjab Cricket Association Stadium, Mohali",LIVE,NULL,12:57.6
+335984,2007/08,Delhi,4/19/2008,Delhi Daredevils,Rajasthan Royals,Rajasthan Royals,Delhi Daredevils,Feroz Shah Kotla,LIVE,NULL,13:02.6
+335985,2007/08,Mumbai,4/20/2008,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,Wankhede Stadium,LIVE,NULL,13:07.6
+335986,2007/08,Kolkata,4/20/2008,Kolkata Knight Riders,Deccan Chargers,Deccan Chargers,Kolkata Knight Riders,Eden Gardens,LIVE,NULL,13:12.6
+335987,2007/08,Jaipur,4/21/2008,Rajasthan Royals,Kings XI Punjab,Kings XI Punjab,Rajasthan Royals,Sawai Mansingh Stadium,LIVE,NULL,13:17.6
+335989,2007/08,Chennai,4/23/2008,Chennai Super Kings,Mumbai Indians,Mumbai Indians,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk",LIVE,NULL,13:27.6
+335990,2007/08,Hyderabad,4/24/2008,Deccan Chargers,Rajasthan Royals,Rajasthan Royals,Rajasthan Royals,"Rajiv Gandhi International Stadium, Uppal",LIVE,NULL,13:32.6
+335991,2007/08,Chandigarh,4/25/2008,Kings XI Punjab,Mumbai Indians,Mumbai Indians,Kings XI Punjab,"Punjab Cricket Association Stadium, Mohali",LIVE,NULL,13:37.7
+335992,2007/08,Bangalore,4/26/2008,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,Rajasthan Royals,M Chinnaswamy Stadium,LIVE,NULL,13:42.7
+335993,2007/08,Chennai,4/26/2008,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk",LIVE,NULL,13:47.7
+335994,2007/08,Mumbai,4/27/2008,Mumbai Indians,Deccan Chargers,Deccan Chargers,Deccan Chargers,Dr DY Patil Sports Academy,LIVE,NULL,13:52.7
+335996,2007/08,Bangalore,4/28/2008,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,Chennai Super Kings,M Chinnaswamy Stadium,LIVE,NULL,14:02.7
+335997,2007/08,Kolkata,4/29/2008,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,Eden Gardens,LIVE,NULL,14:07.7
+335998,2007/08,Delhi,4/30/2008,Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,Delhi Daredevils,Feroz Shah Kotla,LIVE,NULL,14:12.7
+335999,2007/08,Hyderabad,5/1/2008,Deccan Chargers,Kings XI Punjab,Kings XI Punjab,Kings XI Punjab,"Rajiv Gandhi International Stadium, Uppal",LIVE,NULL,14:17.7
+336000,2007/08,Jaipur,5/1/2008,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,Sawai Mansingh Stadium,LIVE,NULL,14:22.7
+336001,2007/08,Chennai,5/2/2008,Chennai Super Kings,Delhi Daredevils,Chennai Super Kings,Delhi Daredevils,"MA Chidambaram Stadium, Chepauk",LIVE,NULL,14:27.7
+336036,2007/08,Jaipur,5/26/2008,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,Sawai Mansingh Stadium,NULL,NULL,NULL
+336037,2007/08,Hyderabad,5/27/2008,Deccan Chargers,Chennai Super Kings,Deccan Chargers,Chennai Super Kings,"Rajiv Gandhi International Stadium, Uppal",NULL,NULL,NULL
+336012,2007/08,Bangalore,5/28/2008,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,Mumbai Indians,M Chinnaswamy Stadium,NULL,NULL,NULL
+336019,2007/08,Chandigarh,5/28/2008,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,Kings XI Punjab,"Punjab Cricket Association Stadium, Mohali",NULL,NULL,NULL
+336038,2007/08,Mumbai,5/30/2008,Delhi Daredevils,Rajasthan Royals,Delhi Daredevils,Rajasthan Royals,Wankhede Stadium,NULL,NULL,NULL
+336039,2007/08,Mumbai,5/31/2008,Chennai Super Kings,Kings XI Punjab,Kings XI Punjab,Chennai Super Kings,Wankhede Stadium,NULL,NULL,NULL
+336040,2007/08,Mumbai,6/1/2008,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,Rajasthan Royals,Dr DY Patil Sports Academy,NULL,NULL,NULL
+392181,2009,Cape Town,4/18/2009,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,Mumbai Indians,Newlands,NULL,NULL,NULL
+392182,2009,Cape Town,4/18/2009,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,Newlands,NULL,NULL,NULL
+392183,2009,Cape Town,4/19/2009,Delhi Daredevils,Kings XI Punjab,Delhi Daredevils,Delhi Daredevils,Newlands,NULL,NULL,NULL
+392184,2009,Cape Town,4/19/2009,Deccan Chargers,Kolkata Knight Riders,Kolkata Knight Riders,Deccan Chargers,Newlands,NULL,NULL,NULL
+392185,2009,Port Elizabeth,4/20/2009,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,Chennai Super Kings,St George's Park,NULL,NULL,NULL
+392186,2009,Durban,4/21/2009,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,Kolkata Knight Riders,Kingsmead,NULL,NULL,NULL
+392188,2009,Cape Town,4/22/2009,Royal Challengers Bangalore,Deccan Chargers,Deccan Chargers,Deccan Chargers,Newlands,NULL,NULL,NULL
+392189,2009,Durban,4/23/2009,Chennai Super Kings,Delhi Daredevils,Delhi Daredevils,Delhi Daredevils,Kingsmead,NULL,NULL,NULL
+392190,2009,Cape Town,4/23/2009,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,Newlands,NULL,NULL,NULL
+392191,2009,Durban,4/24/2009,Royal Challengers Bangalore,Kings XI Punjab,Royal Challengers Bangalore,Kings XI Punjab,Kingsmead,NULL,NULL,NULL
+392192,2009,Durban,4/25/2009,Deccan Chargers,Mumbai Indians,Deccan Chargers,Deccan Chargers,Kingsmead,NULL,NULL,NULL
+392194,2009,Port Elizabeth,4/26/2009,Royal Challengers Bangalore,Delhi Daredevils,Royal Challengers Bangalore,Delhi Daredevils,St George's Park,NULL,NULL,NULL
+392195,2009,Cape Town,4/26/2009,Kings XI Punjab,Rajasthan Royals,Kings XI Punjab,Kings XI Punjab,Newlands,NULL,NULL,NULL
+392196,2009,Durban,4/27/2009,Chennai Super Kings,Deccan Chargers,Deccan Chargers,Deccan Chargers,Kingsmead,NULL,NULL,NULL
+392197,2009,Port Elizabeth,4/27/2009,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,Mumbai Indians,St George's Park,NULL,NULL,NULL
+392198,2009,Centurion,4/28/2009,Delhi Daredevils,Rajasthan Royals,Delhi Daredevils,Rajasthan Royals,SuperSport Park,NULL,NULL,NULL
+392199,2009,Durban,4/29/2009,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,Royal Challengers Bangalore,Kingsmead,NULL,NULL,NULL
+392200,2009,Durban,4/29/2009,Kings XI Punjab,Mumbai Indians,Kings XI Punjab,Kings XI Punjab,Kingsmead,NULL,NULL,NULL
+392201,2009,Centurion,4/30/2009,Deccan Chargers,Delhi Daredevils,Delhi Daredevils,Delhi Daredevils,SuperSport Park,NULL,NULL,NULL
+392202,2009,Centurion,4/30/2009,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,Chennai Super Kings,SuperSport Park,NULL,NULL,NULL
+392203,2009,East London,5/1/2009,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,Mumbai Indians,Buffalo Park,NULL,NULL,NULL
+392204,2009,Durban,5/1/2009,Royal Challengers Bangalore,Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,Kingsmead,NULL,NULL,NULL
+392205,2009,Port Elizabeth,5/2/2009,Deccan Chargers,Rajasthan Royals,Deccan Chargers,Rajasthan Royals,St George's Park,NULL,NULL,NULL
+392206,2009,Johannesburg,5/2/2009,Chennai Super Kings,Delhi Daredevils,Delhi Daredevils,Chennai Super Kings,New Wanderers Stadium,NULL,NULL,NULL
+392207,2009,Port Elizabeth,5/3/2009,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,Kings XI Punjab,St George's Park,NULL,NULL,NULL
+392208,2009,Johannesburg,5/3/2009,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,Royal Challengers Bangalore,New Wanderers Stadium,NULL,NULL,NULL
+392209,2009,East London,5/4/2009,Chennai Super Kings,Deccan Chargers,Chennai Super Kings,Chennai Super Kings,Buffalo Park,NULL,NULL,NULL
+392210,2009,Durban,5/5/2009,Kings XI Punjab,Rajasthan Royals,Kings XI Punjab,Rajasthan Royals,Kingsmead,NULL,NULL,NULL
+392211,2009,Durban,5/5/2009,Delhi Daredevils,Kolkata Knight Riders,Kolkata Knight Riders,Delhi Daredevils,Kingsmead,NULL,NULL,NULL
+392212,2009,Centurion,5/6/2009,Deccan Chargers,Mumbai Indians,Deccan Chargers,Deccan Chargers,SuperSport Park,NULL,NULL,NULL
+392213,2009,Centurion,5/7/2009,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,Rajasthan Royals,SuperSport Park,NULL,NULL,NULL
+392214,2009,Centurion,5/7/2009,Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,SuperSport Park,NULL,NULL,NULL
+392215,2009,East London,5/8/2009,Delhi Daredevils,Mumbai Indians,Mumbai Indians,Delhi Daredevils,Buffalo Park,NULL,NULL,NULL
+392216,2009,Kimberley,5/9/2009,Deccan Chargers,Kings XI Punjab,Kings XI Punjab,Kings XI Punjab,De Beers Diamond Oval,NULL,NULL,NULL
+392217,2009,Kimberley,5/9/2009,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,Chennai Super Kings,De Beers Diamond Oval,NULL,NULL,NULL
+392218,2009,Port Elizabeth,5/10/2009,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,Mumbai Indians,St George's Park,NULL,NULL,NULL
+392219,2009,Johannesburg,5/10/2009,Delhi Daredevils,Kolkata Knight Riders,Delhi Daredevils,Delhi Daredevils,New Wanderers Stadium,NULL,NULL,NULL
+392220,2009,Kimberley,5/11/2009,Deccan Chargers,Rajasthan Royals,Deccan Chargers,Deccan Chargers,De Beers Diamond Oval,NULL,NULL,NULL
+392221,2009,Centurion,5/12/2009,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,SuperSport Park,NULL,NULL,NULL
+392222,2009,Centurion,5/12/2009,Kings XI Punjab,Mumbai Indians,Kings XI Punjab,Mumbai Indians,SuperSport Park,NULL,NULL,NULL
+392223,2009,Durban,5/13/2009,Deccan Chargers,Delhi Daredevils,Deccan Chargers,Delhi Daredevils,Kingsmead,NULL,NULL,NULL
+392224,2009,Durban,5/14/2009,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,Royal Challengers Bangalore,Kingsmead,NULL,NULL,NULL
+392225,2009,Durban,5/14/2009,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,Rajasthan Royals,Kingsmead,NULL,NULL,NULL
+392226,2009,Bloemfontein,5/15/2009,Delhi Daredevils,Kings XI Punjab,Kings XI Punjab,Kings XI Punjab,OUTsurance Oval,NULL,NULL,NULL
+392227,2009,Port Elizabeth,5/16/2009,Chennai Super Kings,Mumbai Indians,Mumbai Indians,Chennai Super Kings,St George's Park,NULL,NULL,NULL
+392228,2009,Johannesburg,5/16/2009,Deccan Chargers,Kolkata Knight Riders,Deccan Chargers,Deccan Chargers,New Wanderers Stadium,NULL,NULL,NULL
+392229,2009,Johannesburg,5/17/2009,Deccan Chargers,Kings XI Punjab,Deccan Chargers,Kings XI Punjab,New Wanderers Stadium,NULL,NULL,NULL
+392230,2009,Bloemfontein,5/17/2009,Delhi Daredevils,Rajasthan Royals,Delhi Daredevils,Delhi Daredevils,OUTsurance Oval,NULL,NULL,NULL
+392231,2009,Centurion,5/18/2009,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,SuperSport Park,NULL,NULL,NULL
+392232,2009,Johannesburg,5/19/2009,Royal Challengers Bangalore,Delhi Daredevils,Delhi Daredevils,Royal Challengers Bangalore,New Wanderers Stadium,NULL,NULL,NULL
+392233,2009,Durban,5/20/2009,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,Kingsmead,NULL,NULL,NULL
+392234,2009,Durban,5/20/2009,Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,Kingsmead,NULL,NULL,NULL
+392235,2009,Centurion,5/21/2009,Delhi Daredevils,Mumbai Indians,Delhi Daredevils,Delhi Daredevils,SuperSport Park,NULL,NULL,NULL
+392236,2009,Centurion,5/21/2009,Royal Challengers Bangalore,Deccan Chargers,Royal Challengers Bangalore,Royal Challengers Bangalore,SuperSport Park,NULL,NULL,NULL
+392237,2009,Centurion,5/22/2009,Delhi Daredevils,Deccan Chargers,Deccan Chargers,Deccan Chargers,SuperSport Park,NULL,NULL,NULL
+392238,2009,Johannesburg,5/23/2009,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,New Wanderers Stadium,NULL,NULL,NULL
+392239,2009,Johannesburg,5/24/2009,Royal Challengers Bangalore,Deccan Chargers,Royal Challengers Bangalore,Deccan Chargers,New Wanderers Stadium,NULL,NULL,NULL
+419106,2009/10,Mumbai,3/12/2010,Deccan Chargers,Kolkata Knight Riders,Deccan Chargers,Kolkata Knight Riders,Dr DY Patil Sports Academy,NULL,NULL,NULL
+419107,2009/10,Mumbai,3/13/2010,Mumbai Indians,Rajasthan Royals,Mumbai Indians,Mumbai Indians,Brabourne Stadium,NULL,NULL,NULL
+419108,2009/10,Chandigarh,3/13/2010,Kings XI Punjab,Delhi Daredevils,Delhi Daredevils,Delhi Daredevils,"Punjab Cricket Association Stadium, Mohali",NULL,NULL,NULL
+419109,2009/10,Kolkata,3/14/2010,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,Eden Gardens,NULL,NULL,NULL
+419110,2009/10,Chennai,3/14/2010,Chennai Super Kings,Deccan Chargers,Deccan Chargers,Deccan Chargers,"MA Chidambaram Stadium, Chepauk",NULL,NULL,NULL
+419111,2009/10,Ahmedabad,3/15/2010,Rajasthan Royals,Delhi Daredevils,Delhi Daredevils,Delhi Daredevils,"Sardar Patel Stadium, Motera",NULL,NULL,NULL
+419112,2009/10,Bangalore,3/16/2010,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,Royal Challengers Bangalore,M Chinnaswamy Stadium,NULL,NULL,NULL
+419113,2009/10,Kolkata,3/16/2010,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,Chennai Super Kings,Eden Gardens,NULL,NULL,NULL
+419114,2009/10,Delhi,3/17/2010,Delhi Daredevils,Mumbai Indians,Delhi Daredevils,Mumbai Indians,Feroz Shah Kotla,NULL,NULL,NULL
+419115,2009/10,Bangalore,3/18/2010,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,M Chinnaswamy Stadium,NULL,NULL,NULL
+419116,2009/10,Delhi,3/19/2010,Delhi Daredevils,Chennai Super Kings,Delhi Daredevils,Chennai Super Kings,Feroz Shah Kotla,NULL,NULL,NULL
+419117,2009/10,Cuttack,3/19/2010,Deccan Chargers,Kings XI Punjab,Kings XI Punjab,Deccan Chargers,Barabati Stadium,NULL,NULL,NULL
+419118,2009/10,Ahmedabad,3/20/2010,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,"Sardar Patel Stadium, Motera",NULL,NULL,NULL
+419119,2009/10,Mumbai,3/20/2010,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,Brabourne Stadium,NULL,NULL,NULL
+419120,2009/10,Cuttack,3/21/2010,Deccan Chargers,Delhi Daredevils,Deccan Chargers,Deccan Chargers,Barabati Stadium,NULL,NULL,NULL
+419121,2009/10,Chennai,3/21/2010,Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,Kings XI Punjab,"MA Chidambaram Stadium, Chepauk",NULL,NULL,NULL
+419122,2009/10,Mumbai,3/22/2010,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,Mumbai Indians,Brabourne Stadium,NULL,NULL,NULL
+419123,2009/10,Bangalore,3/23/2010,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,Royal Challengers Bangalore,M Chinnaswamy Stadium,NULL,NULL,NULL
+419124,2009/10,Chandigarh,3/24/2010,Kings XI Punjab,Rajasthan Royals,Kings XI Punjab,Rajasthan Royals,"Punjab Cricket Association Stadium, Mohali",NULL,NULL,NULL
+419125,2009/10,Mumbai,3/25/2010,Chennai Super Kings,Mumbai Indians,Mumbai Indians,Mumbai Indians,"Brabourne Stadium, Mumbai",NULL,NULL,NULL
+419128,2009/10,Bangalore,3/25/2010,Royal Challengers Bangalore,Delhi Daredevils,Royal Challengers Bangalore,Delhi Daredevils,M Chinnaswamy Stadium,NULL,NULL,NULL
+419126,2009/10,Ahmedabad,3/26/2010,Rajasthan Royals,Deccan Chargers,Deccan Chargers,Rajasthan Royals,"Sardar Patel Stadium, Motera",NULL,NULL,NULL
+419127,2009/10,Chandigarh,3/27/2010,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,Kolkata Knight Riders,"Punjab Cricket Association Stadium, Mohali",NULL,NULL,NULL
+419129,2009/10,Ahmedabad,3/28/2010,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,"Sardar Patel Stadium, Motera",NULL,NULL,NULL
+419130,2009/10,Mumbai,3/28/2010,Deccan Chargers,Mumbai Indians,Deccan Chargers,Mumbai Indians,Dr DY Patil Sports Academy,NULL,NULL,NULL
+419131,2009/10,Delhi,3/29/2010,Delhi Daredevils,Kolkata Knight Riders,Delhi Daredevils,Delhi Daredevils,Feroz Shah Kotla,NULL,NULL,NULL
+419132,2009/10,Mumbai,3/30/2010,Mumbai Indians,Kings XI Punjab,Mumbai Indians,Mumbai Indians,Brabourne Stadium,NULL,NULL,NULL
+419133,2009/10,Chennai,3/31/2010,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk",NULL,NULL,NULL
+419134,2009/10,Delhi,3/31/2010,Delhi Daredevils,Rajasthan Royals,Delhi Daredevils,Delhi Daredevils,Feroz Shah Kotla,NULL,NULL,NULL
+419135,2009/10,Kolkata,4/1/2010,Kolkata Knight Riders,Deccan Chargers,Kolkata Knight Riders,Kolkata Knight Riders,Eden Gardens,NULL,NULL,NULL
+419136,2009/10,Chandigarh,4/2/2010,Kings XI Punjab,Royal Challengers Bangalore,Kings XI Punjab,Royal Challengers Bangalore,"Punjab Cricket Association Stadium, Mohali",NULL,NULL,NULL
+419137,2009/10,Chennai,4/3/2010,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk",NULL,NULL,NULL
+419138,2009/10,Mumbai,4/3/2010,Mumbai Indians,Deccan Chargers,Mumbai Indians,Mumbai Indians,Brabourne Stadium,NULL,NULL,NULL
+419139,2009/10,Kolkata,4/4/2010,Kolkata Knight Riders,Kings XI Punjab,Kolkata Knight Riders,Kings XI Punjab,Eden Gardens,NULL,NULL,NULL
+419140,2009/10,Delhi,4/4/2010,Delhi Daredevils,Royal Challengers Bangalore,Delhi Daredevils,Delhi Daredevils,Feroz Shah Kotla,NULL,NULL,NULL
+419141,2009/10,Nagpur,4/5/2010,Deccan Chargers,Rajasthan Royals,Rajasthan Royals,Rajasthan Royals,"Vidarbha Cricket Association Stadium, Jamtha",NULL,NULL,NULL
+419142,2009/10,Chennai,4/6/2010,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk",NULL,NULL,NULL
+419143,2009/10,Jaipur,4/7/2010,Rajasthan Royals,Kings XI Punjab,Kings XI Punjab,Rajasthan Royals,Sawai Mansingh Stadium,NULL,NULL,NULL
+419144,2009/10,Kolkata,4/7/2010,Kolkata Knight Riders,Delhi Daredevils,Kolkata Knight Riders,Kolkata Knight Riders,Eden Gardens,NULL,NULL,NULL
+419145,2009/10,Bangalore,4/8/2010,Royal Challengers Bangalore,Deccan Chargers,Deccan Chargers,Deccan Chargers,M Chinnaswamy Stadium,NULL,NULL,NULL
+419146,2009/10,Chandigarh,4/9/2010,Kings XI Punjab,Mumbai Indians,Mumbai Indians,Kings XI Punjab,"Punjab Cricket Association Stadium, Mohali",NULL,NULL,NULL
+419147,2009/10,Nagpur,4/10/2010,Deccan Chargers,Chennai Super Kings,Chennai Super Kings,Deccan Chargers,"Vidarbha Cricket Association Stadium, Jamtha",NULL,NULL,NULL
+419148,2009/10,Bangalore,4/10/2010,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,M Chinnaswamy Stadium,NULL,NULL,NULL
+419149,2009/10,Delhi,4/11/2010,Delhi Daredevils,Kings XI Punjab,Delhi Daredevils,Kings XI Punjab,Feroz Shah Kotla,NULL,NULL,NULL
+419150,2009/10,Jaipur,4/11/2010,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,Mumbai Indians,Sawai Mansingh Stadium,NULL,NULL,NULL
+419151,2009/10,Nagpur,4/12/2010,Deccan Chargers,Royal Challengers Bangalore,Royal Challengers Bangalore,Deccan Chargers,"Vidarbha Cricket Association Stadium, Jamtha",NULL,NULL,NULL
+419152,2009/10,Mumbai,4/13/2010,Mumbai Indians,Delhi Daredevils,Mumbai Indians,Mumbai Indians,Brabourne Stadium,NULL,NULL,NULL
+419153,2009/10,Chennai,4/13/2010,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk",NULL,NULL,NULL
+419154,2009/10,Jaipur,4/14/2010,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,Sawai Mansingh Stadium,NULL,NULL,NULL
+419155,2009/10,Chennai,4/15/2010,Chennai Super Kings,Delhi Daredevils,Chennai Super Kings,Delhi Daredevils,"MA Chidambaram Stadium, Chepauk",NULL,NULL,NULL
+419156,2009/10,Dharamsala,4/16/2010,Kings XI Punjab,Deccan Chargers,Deccan Chargers,Deccan Chargers,Himachal Pradesh Cricket Association Stadium,NULL,NULL,NULL
+419157,2009/10,Bangalore,4/17/2010,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,M Chinnaswamy Stadium,NULL,NULL,NULL
+419158,2009/10,Kolkata,4/17/2010,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,Kolkata Knight Riders,Eden Gardens,NULL,NULL,NULL
+419159,2009/10,Dharamsala,4/18/2010,Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,Chennai Super Kings,Himachal Pradesh Cricket Association Stadium,NULL,NULL,NULL
+419160,2009/10,Delhi,4/18/2010,Delhi Daredevils,Deccan Chargers,Deccan Chargers,Deccan Chargers,Feroz Shah Kotla,NULL,NULL,NULL
+419161,2009/10,Kolkata,4/19/2010,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,Kolkata Knight Riders,Eden Gardens,NULL,NULL,NULL
+419162,2009/10,Mumbai,4/21/2010,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,Mumbai Indians,Dr DY Patil Sports Academy,NULL,NULL,NULL
+419163,2009/10,Mumbai,4/22/2010,Chennai Super Kings,Deccan Chargers,Chennai Super Kings,Chennai Super Kings,Dr DY Patil Sports Academy,NULL,NULL,NULL
+419164,2009/10,Mumbai,4/24/2010,Royal Challengers Bangalore,Deccan Chargers,Deccan Chargers,Royal Challengers Bangalore,Dr DY Patil Sports Academy,NULL,NULL,NULL
+419165,2009/10,Mumbai,4/25/2010,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,Dr DY Patil Sports Academy,NULL,NULL,NULL
+501198,2011,Chennai,4/8/2011,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk",NULL,NULL,NULL
+501199,2011,Hyderabad,4/9/2011,Deccan Chargers,Rajasthan Royals,Rajasthan Royals,Rajasthan Royals,"Rajiv Gandhi International Stadium, Uppal",NULL,NULL,NULL
+501200,2011,Kochi,4/9/2011,Kochi Tuskers Kerala,Royal Challengers Bangalore,Kochi Tuskers Kerala,Royal Challengers Bangalore,Nehru Stadium,NULL,NULL,NULL
+501201,2011,Delhi,4/10/2011,Delhi Daredevils,Mumbai Indians,Delhi Daredevils,Mumbai Indians,Feroz Shah Kotla,NULL,NULL,NULL
+501202,2011,Mumbai,4/10/2011,Pune Warriors,Kings XI Punjab,Kings XI Punjab,Pune Warriors,Dr DY Patil Sports Academy,NULL,NULL,NULL
+501203,2011,Kolkata,4/11/2011,Kolkata Knight Riders,Deccan Chargers,Kolkata Knight Riders,Kolkata Knight Riders,Eden Gardens,NULL,NULL,NULL
+501204,2011,Jaipur,4/12/2011,Rajasthan Royals,Delhi Daredevils,Delhi Daredevils,Rajasthan Royals,Sawai Mansingh Stadium,NULL,NULL,NULL
+501205,2011,Bangalore,4/12/2011,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,Mumbai Indians,M Chinnaswamy Stadium,NULL,NULL,NULL
+501206,2011,Chandigarh,4/13/2011,Kings XI Punjab,Chennai Super Kings,Kings XI Punjab,Kings XI Punjab,"Punjab Cricket Association Stadium, Mohali",NULL,NULL,NULL
+501207,2011,Mumbai,4/13/2011,Pune Warriors,Kochi Tuskers Kerala,Kochi Tuskers Kerala,Pune Warriors,Dr DY Patil Sports Academy,NULL,NULL,NULL
+501208,2011,Hyderabad,4/14/2011,Deccan Chargers,Royal Challengers Bangalore,Royal Challengers Bangalore,Deccan Chargers,"Rajiv Gandhi International Stadium, Uppal",NULL,NULL,NULL
+501209,2011,Jaipur,4/15/2011,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,Kolkata Knight Riders,Sawai Mansingh Stadium,NULL,NULL,NULL
+501210,2011,Mumbai,4/15/2011,Mumbai Indians,Kochi Tuskers Kerala,Kochi Tuskers Kerala,Kochi Tuskers Kerala,Wankhede Stadium,NULL,NULL,NULL
+501211,2011,Chennai,4/16/2011,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk",NULL,NULL,NULL
+501212,2011,Hyderabad,4/16/2011,Deccan Chargers,Kings XI Punjab,Kings XI Punjab,Kings XI Punjab,"Rajiv Gandhi International Stadium, Uppal",NULL,NULL,NULL
+501213,2011,Mumbai,4/17/2011,Pune Warriors,Delhi Daredevils,Delhi Daredevils,Delhi Daredevils,Dr DY Patil Sports Academy,NULL,NULL,NULL
+501214,2011,Kolkata,4/17/2011,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,Eden Gardens,NULL,NULL,NULL
+501215,2011,Kochi,4/18/2011,Kochi Tuskers Kerala,Chennai Super Kings,Kochi Tuskers Kerala,Kochi Tuskers Kerala,Nehru Stadium,NULL,NULL,NULL
+501216,2011,Delhi,4/19/2011,Delhi Daredevils,Deccan Chargers,Deccan Chargers,Deccan Chargers,Feroz Shah Kotla,NULL,NULL,NULL
+501218,2011,Mumbai,4/20/2011,Mumbai Indians,Pune Warriors,Pune Warriors,Mumbai Indians,Wankhede Stadium,NULL,NULL,NULL
+501219,2011,Kolkata,4/20/2011,Kolkata Knight Riders,Kochi Tuskers Kerala,Kolkata Knight Riders,Kochi Tuskers Kerala,Eden Gardens,NULL,NULL,NULL
+501220,2011,Chandigarh,4/21/2011,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,Kings XI Punjab,"Punjab Cricket Association Stadium, Mohali",NULL,NULL,NULL
+501221,2011,Mumbai,4/22/2011,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,Mumbai Indians,Wankhede Stadium,NULL,NULL,NULL
+501222,2011,Kolkata,4/22/2011,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,Royal Challengers Bangalore,Eden Gardens,NULL,NULL,NULL
+501223,2011,Delhi,4/23/2011,Delhi Daredevils,Kings XI Punjab,Kings XI Punjab,Delhi Daredevils,Feroz Shah Kotla,NULL,NULL,NULL
+501224,2011,Hyderabad,4/24/2011,Deccan Chargers,Mumbai Indians,Deccan Chargers,Mumbai Indians,"Rajiv Gandhi International Stadium, Uppal",NULL,NULL,NULL
+501225,2011,Jaipur,4/24/2011,Rajasthan Royals,Kochi Tuskers Kerala,Rajasthan Royals,Rajasthan Royals,Sawai Mansingh Stadium,NULL,NULL,NULL
+501226,2011,Chennai,4/25/2011,Chennai Super Kings,Pune Warriors,Pune Warriors,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk",NULL,NULL,NULL
+501227,2011,Delhi,4/26/2011,Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,Royal Challengers Bangalore,Feroz Shah Kotla,NULL,NULL,NULL
+501228,2011,Mumbai,4/27/2011,Pune Warriors,Chennai Super Kings,Pune Warriors,Chennai Super Kings,Dr DY Patil Sports Academy,NULL,NULL,NULL
+501229,2011,Kochi,4/27/2011,Kochi Tuskers Kerala,Deccan Chargers,Kochi Tuskers Kerala,Deccan Chargers,Nehru Stadium,NULL,NULL,NULL
+501230,2011,Delhi,4/28/2011,Delhi Daredevils,Kolkata Knight Riders,Delhi Daredevils,Kolkata Knight Riders,Feroz Shah Kotla,NULL,NULL,NULL
+501231,2011,Jaipur,4/29/2011,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,Sawai Mansingh Stadium,NULL,NULL,NULL
+501232,2011,Bangalore,4/29/2011,Royal Challengers Bangalore,Pune Warriors,Pune Warriors,Royal Challengers Bangalore,M Chinnaswamy Stadium,NULL,NULL,NULL
+501233,2011,Kochi,4/30/2011,Kochi Tuskers Kerala,Delhi Daredevils,Delhi Daredevils,Delhi Daredevils,Nehru Stadium,NULL,NULL,NULL
+501234,2011,Kolkata,4/30/2011,Kolkata Knight Riders,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,Eden Gardens,NULL,NULL,NULL
+501235,2011,Jaipur,5/1/2011,Rajasthan Royals,Pune Warriors,Rajasthan Royals,Rajasthan Royals,Sawai Mansingh Stadium,NULL,NULL,NULL
+501236,2011,Chennai,5/1/2011,Chennai Super Kings,Deccan Chargers,Chennai Super Kings,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk",NULL,NULL,NULL
+501237,2011,Mumbai,5/2/2011,Mumbai Indians,Kings XI Punjab,Kings XI Punjab,Mumbai Indians,Wankhede Stadium,NULL,NULL,NULL
+501238,2011,Delhi,5/2/2011,Delhi Daredevils,Kochi Tuskers Kerala,Kochi Tuskers Kerala,Kochi Tuskers Kerala,Feroz Shah Kotla,NULL,NULL,NULL
+501239,2011,Hyderabad,5/3/2011,Deccan Chargers,Kolkata Knight Riders,Deccan Chargers,Kolkata Knight Riders,"Rajiv Gandhi International Stadium, Uppal",NULL,NULL,NULL
+501240,2011,Chennai,5/4/2011,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk",NULL,NULL,NULL
+501241,2011,Mumbai,5/4/2011,Pune Warriors,Mumbai Indians,Pune Warriors,Mumbai Indians,Dr DY Patil Sports Academy,NULL,NULL,NULL
+501242,2011,Kochi,5/5/2011,Kochi Tuskers Kerala,Kolkata Knight Riders,Kolkata Knight Riders,Kochi Tuskers Kerala,Nehru Stadium,NULL,NULL,NULL
+501243,2011,Hyderabad,5/5/2011,Deccan Chargers,Delhi Daredevils,Delhi Daredevils,Delhi Daredevils,"Rajiv Gandhi International Stadium, Uppal",NULL,NULL,NULL
+501244,2011,Bangalore,5/6/2011,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,Royal Challengers Bangalore,M Chinnaswamy Stadium,NULL,NULL,NULL
+501245,2011,Kolkata,5/7/2011,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,Kolkata Knight Riders,Eden Gardens,NULL,NULL,NULL
+501246,2011,Mumbai,5/7/2011,Mumbai Indians,Delhi Daredevils,Delhi Daredevils,Mumbai Indians,Wankhede Stadium,NULL,NULL,NULL
+501247,2011,Bangalore,5/8/2011,Royal Challengers Bangalore,Kochi Tuskers Kerala,Kochi Tuskers Kerala,Royal Challengers Bangalore,M Chinnaswamy Stadium,NULL,NULL,NULL
+501248,2011,Chandigarh,5/8/2011,Kings XI Punjab,Pune Warriors,Kings XI Punjab,Pune Warriors,"Punjab Cricket Association Stadium, Mohali",NULL,NULL,NULL
+501249,2011,Jaipur,5/9/2011,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,Sawai Mansingh Stadium,NULL,NULL,NULL
+501250,2011,Hyderabad,5/10/2011,Deccan Chargers,Pune Warriors,Deccan Chargers,Pune Warriors,"Rajiv Gandhi International Stadium, Uppal",NULL,NULL,NULL
+501251,2011,Chandigarh,5/10/2011,Kings XI Punjab,Mumbai Indians,Mumbai Indians,Kings XI Punjab,"Punjab Cricket Association Stadium, Mohali",NULL,NULL,NULL
+501252,2011,Jaipur,5/11/2011,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,Royal Challengers Bangalore,Sawai Mansingh Stadium,NULL,NULL,NULL
+501253,2011,Chennai,5/12/2011,Chennai Super Kings,Delhi Daredevils,Chennai Super Kings,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk",NULL,NULL,NULL
+501254,2011,Indore,5/13/2011,Kochi Tuskers Kerala,Kings XI Punjab,Kings XI Punjab,Kings XI Punjab,Holkar Cricket Stadium,NULL,NULL,NULL
+501255,2011,Bangalore,5/14/2011,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,M Chinnaswamy Stadium,NULL,NULL,NULL
+501256,2011,Mumbai,5/14/2011,Mumbai Indians,Deccan Chargers,Deccan Chargers,Deccan Chargers,Wankhede Stadium,NULL,NULL,NULL
+501257,2011,Dharamsala,5/15/2011,Kings XI Punjab,Delhi Daredevils,Delhi Daredevils,Kings XI Punjab,Himachal Pradesh Cricket Association Stadium,NULL,NULL,NULL
+501258,2011,Indore,5/15/2011,Kochi Tuskers Kerala,Rajasthan Royals,Kochi Tuskers Kerala,Kochi Tuskers Kerala,Holkar Cricket Stadium,NULL,NULL,NULL
+501259,2011,Mumbai,5/16/2011,Pune Warriors,Deccan Chargers,Deccan Chargers,Deccan Chargers,Dr DY Patil Sports Academy,NULL,NULL,NULL
+501260,2011,Dharamsala,5/17/2011,Kings XI Punjab,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,Himachal Pradesh Cricket Association Stadium,NULL,NULL,NULL
+501261,2011,Chennai,5/18/2011,Chennai Super Kings,Kochi Tuskers Kerala,Chennai Super Kings,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk",NULL,NULL,NULL
+501262,2011,Mumbai,5/19/2011,Pune Warriors,Kolkata Knight Riders,Kolkata Knight Riders,Kolkata Knight Riders,Dr DY Patil Sports Academy,NULL,NULL,NULL
+501263,2011,Mumbai,5/20/2011,Mumbai Indians,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,Wankhede Stadium,NULL,NULL,NULL
+501264,2011,Dharamsala,5/21/2011,Kings XI Punjab,Deccan Chargers,Kings XI Punjab,Deccan Chargers,Himachal Pradesh Cricket Association Stadium,NULL,NULL,NULL
+501265,2011,Delhi,5/21/2011,Delhi Daredevils,Pune Warriors,Delhi Daredevils,NaN,Feroz Shah Kotla,NULL,NULL,NULL
+501266,2011,Bangalore,5/22/2011,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,M Chinnaswamy Stadium,NULL,NULL,NULL
+501267,2011,Kolkata,5/22/2011,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,Mumbai Indians,Eden Gardens,NULL,NULL,NULL
+501268,2011,Mumbai,5/24/2011,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,Chennai Super Kings,Wankhede Stadium,NULL,NULL,NULL
+501269,2011,Mumbai,5/25/2011,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,Wankhede Stadium,NULL,NULL,NULL
+501270,2011,Chennai,5/27/2011,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,Royal Challengers Bangalore,"MA Chidambaram Stadium, Chepauk",NULL,NULL,NULL
+501271,2011,Chennai,5/28/2011,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk",NULL,NULL,NULL
+548306,2012,Chennai,4/4/2012,Chennai Super Kings,Mumbai Indians,Mumbai Indians,Mumbai Indians,"MA Chidambaram Stadium, Chepauk",NULL,NULL,NULL
+548307,2012,Kolkata,4/5/2012,Kolkata Knight Riders,Delhi Daredevils,Delhi Daredevils,Delhi Daredevils,Eden Gardens,NULL,NULL,NULL
+548308,2012,Mumbai,4/6/2012,Mumbai Indians,Pune Warriors,Mumbai Indians,Pune Warriors,Wankhede Stadium,NULL,NULL,NULL
+548309,2012,Jaipur,4/6/2012,Rajasthan Royals,Kings XI Punjab,Kings XI Punjab,Rajasthan Royals,Sawai Mansingh Stadium,NULL,NULL,NULL
+548310,2012,Bangalore,4/7/2012,Royal Challengers Bangalore,Delhi Daredevils,Delhi Daredevils,Royal Challengers Bangalore,M Chinnaswamy Stadium,NULL,NULL,NULL
+548311,2012,Visakhapatnam,4/7/2012,Deccan Chargers,Chennai Super Kings,Deccan Chargers,Chennai Super Kings,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,NULL,NULL,NULL
+548312,2012,Jaipur,4/8/2012,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,Rajasthan Royals,Sawai Mansingh Stadium,NULL,NULL,NULL
+548313,2012,Pune,4/8/2012,Pune Warriors,Kings XI Punjab,Pune Warriors,Pune Warriors,Subrata Roy Sahara Stadium,NULL,NULL,NULL
+548314,2012,Visakhapatnam,4/9/2012,Deccan Chargers,Mumbai Indians,Deccan Chargers,Mumbai Indians,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,NULL,NULL,NULL
+548315,2012,Bangalore,4/10/2012,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,M Chinnaswamy Stadium,NULL,NULL,NULL
+548316,2012,Delhi,4/10/2012,Delhi Daredevils,Chennai Super Kings,Delhi Daredevils,Delhi Daredevils,Feroz Shah Kotla,NULL,NULL,NULL
+548317,2012,Mumbai,4/11/2012,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,Mumbai Indians,Wankhede Stadium,NULL,NULL,NULL
+548318,2012,Chennai,4/12/2012,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk",NULL,NULL,NULL
+548319,2012,Chandigarh,4/12/2012,Kings XI Punjab,Pune Warriors,Kings XI Punjab,Kings XI Punjab,"Punjab Cricket Association Stadium, Mohali",NULL,NULL,NULL
+548320,2012,Kolkata,4/13/2012,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,Kolkata Knight Riders,Eden Gardens,NULL,NULL,NULL
+548322,2012,Pune,4/14/2012,Pune Warriors,Chennai Super Kings,Chennai Super Kings,Pune Warriors,Subrata Roy Sahara Stadium,NULL,NULL,NULL
+548323,2012,Kolkata,4/15/2012,Kolkata Knight Riders,Kings XI Punjab,Kolkata Knight Riders,Kings XI Punjab,Eden Gardens,NULL,NULL,NULL
+548324,2012,Bangalore,4/15/2012,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,Rajasthan Royals,M Chinnaswamy Stadium,NULL,NULL,NULL
+548325,2012,Mumbai,4/16/2012,Mumbai Indians,Delhi Daredevils,Delhi Daredevils,Delhi Daredevils,Wankhede Stadium,NULL,NULL,NULL
+548326,2012,Jaipur,4/17/2012,Rajasthan Royals,Deccan Chargers,Deccan Chargers,Rajasthan Royals,Sawai Mansingh Stadium,NULL,NULL,NULL
+548327,2012,Bangalore,4/17/2012,Royal Challengers Bangalore,Pune Warriors,Pune Warriors,Royal Challengers Bangalore,M Chinnaswamy Stadium,NULL,NULL,NULL
+548328,2012,Chandigarh,4/18/2012,Kings XI Punjab,Kolkata Knight Riders,Kings XI Punjab,Kolkata Knight Riders,"Punjab Cricket Association Stadium, Mohali",NULL,NULL,NULL
+548321,2012,Delhi,4/19/2012,Delhi Daredevils,Deccan Chargers,Deccan Chargers,Delhi Daredevils,Feroz Shah Kotla,NULL,NULL,NULL
+548330,2012,Chennai,4/19/2012,Chennai Super Kings,Pune Warriors,Pune Warriors,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk",NULL,NULL,NULL
+548331,2012,Chandigarh,4/20/2012,Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,Royal Challengers Bangalore,"Punjab Cricket Association Stadium, Mohali",NULL,NULL,NULL
+548332,2012,Chennai,4/21/2012,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk",NULL,NULL,NULL
+548333,2012,Delhi,4/21/2012,Delhi Daredevils,Pune Warriors,Delhi Daredevils,Pune Warriors,Feroz Shah Kotla,NULL,NULL,NULL
+548334,2012,Mumbai,4/22/2012,Mumbai Indians,Kings XI Punjab,Mumbai Indians,Kings XI Punjab,Wankhede Stadium,NULL,NULL,NULL
+548335,2012,Cuttack,4/22/2012,Deccan Chargers,Kolkata Knight Riders,Kolkata Knight Riders,Kolkata Knight Riders,Barabati Stadium,NULL,NULL,NULL
+548336,2012,Jaipur,4/23/2012,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,Sawai Mansingh Stadium,NULL,NULL,NULL
+548337,2012,Pune,4/24/2012,Pune Warriors,Delhi Daredevils,Pune Warriors,Delhi Daredevils,Subrata Roy Sahara Stadium,NULL,NULL,NULL
+548339,2012,Chandigarh,4/25/2012,Kings XI Punjab,Mumbai Indians,Kings XI Punjab,Mumbai Indians,"Punjab Cricket Association Stadium, Mohali",NULL,NULL,NULL
+548341,2012,Pune,4/26/2012,Pune Warriors,Deccan Chargers,Deccan Chargers,Deccan Chargers,Subrata Roy Sahara Stadium,NULL,NULL,NULL
+548342,2012,Delhi,4/27/2012,Delhi Daredevils,Mumbai Indians,Mumbai Indians,Delhi Daredevils,Feroz Shah Kotla,NULL,NULL,NULL
+548343,2012,Chennai,4/28/2012,Chennai Super Kings,Kings XI Punjab,Kings XI Punjab,Kings XI Punjab,"MA Chidambaram Stadium, Chepauk",NULL,NULL,NULL
+548344,2012,Kolkata,4/28/2012,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,Eden Gardens,NULL,NULL,NULL
+548345,2012,Delhi,4/29/2012,Delhi Daredevils,Rajasthan Royals,Delhi Daredevils,Delhi Daredevils,Feroz Shah Kotla,NULL,NULL,NULL
+548346,2012,Mumbai,4/29/2012,Mumbai Indians,Deccan Chargers,Mumbai Indians,Mumbai Indians,Wankhede Stadium,NULL,NULL,NULL
+548347,2012,Chennai,4/30/2012,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,"MA Chidambaram Stadium, Chepauk",NULL,NULL,NULL
+548348,2012,Cuttack,5/1/2012,Deccan Chargers,Pune Warriors,Deccan Chargers,Deccan Chargers,Barabati Stadium,NULL,NULL,NULL
+548349,2012,Jaipur,5/1/2012,Rajasthan Royals,Delhi Daredevils,Rajasthan Royals,Delhi Daredevils,Sawai Mansingh Stadium,NULL,NULL,NULL
+548350,2012,Bangalore,5/2/2012,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,Kings XI Punjab,M Chinnaswamy Stadium,NULL,NULL,NULL
+548351,2012,Pune,5/3/2012,Pune Warriors,Mumbai Indians,Mumbai Indians,Mumbai Indians,Subrata Roy Sahara Stadium,NULL,NULL,NULL
+548352,2012,Chennai,5/4/2012,Chennai Super Kings,Deccan Chargers,Chennai Super Kings,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk",NULL,NULL,NULL
+548353,2012,Kolkata,5/5/2012,Kolkata Knight Riders,Pune Warriors,Kolkata Knight Riders,Kolkata Knight Riders,Eden Gardens,NULL,NULL,NULL
+548354,2012,Chandigarh,5/5/2012,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,Rajasthan Royals,"Punjab Cricket Association Stadium, Mohali",NULL,NULL,NULL
+548355,2012,Mumbai,5/6/2012,Mumbai Indians,Chennai Super Kings,Mumbai Indians,Mumbai Indians,Wankhede Stadium,NULL,NULL,NULL
+548356,2012,Bangalore,5/6/2012,Royal Challengers Bangalore,Deccan Chargers,Royal Challengers Bangalore,Royal Challengers Bangalore,M Chinnaswamy Stadium,NULL,NULL,NULL
+548357,2012,Delhi,5/7/2012,Delhi Daredevils,Kolkata Knight Riders,Delhi Daredevils,Kolkata Knight Riders,Feroz Shah Kotla,NULL,NULL,NULL
+548358,2012,Pune,5/8/2012,Pune Warriors,Rajasthan Royals,Pune Warriors,Rajasthan Royals,Subrata Roy Sahara Stadium,NULL,NULL,NULL
+548359,2012,Hyderabad,5/8/2012,Deccan Chargers,Kings XI Punjab,Deccan Chargers,Kings XI Punjab,"Rajiv Gandhi International Stadium, Uppal",NULL,NULL,NULL
+548360,2012,Mumbai,5/9/2012,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,Royal Challengers Bangalore,Wankhede Stadium,NULL,NULL,NULL
+548329,2012,Hyderabad,5/10/2012,Deccan Chargers,Delhi Daredevils,Deccan Chargers,Delhi Daredevils,"Rajiv Gandhi International Stadium, Uppal",NULL,NULL,NULL
+548361,2012,Jaipur,5/10/2012,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,Chennai Super Kings,Sawai Mansingh Stadium,NULL,NULL,NULL
+548362,2012,Pune,5/11/2012,Pune Warriors,Royal Challengers Bangalore,Pune Warriors,Royal Challengers Bangalore,Subrata Roy Sahara Stadium,NULL,NULL,NULL
+548363,2012,Kolkata,5/12/2012,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,Mumbai Indians,Eden Gardens,NULL,NULL,NULL
+548364,2012,Chennai,5/12/2012,Chennai Super Kings,Delhi Daredevils,Chennai Super Kings,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk",NULL,NULL,NULL
+548365,2012,Jaipur,5/13/2012,Rajasthan Royals,Pune Warriors,Rajasthan Royals,Rajasthan Royals,Sawai Mansingh Stadium,NULL,NULL,NULL
+548366,2012,Chandigarh,5/13/2012,Kings XI Punjab,Deccan Chargers,Deccan Chargers,Kings XI Punjab,"Punjab Cricket Association Stadium, Mohali",NULL,NULL,NULL
+548367,2012,Bangalore,5/14/2012,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,Mumbai Indians,M Chinnaswamy Stadium,NULL,NULL,NULL
+548368,2012,Kolkata,5/14/2012,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,Chennai Super Kings,Eden Gardens,NULL,NULL,NULL
+548369,2012,Delhi,5/15/2012,Delhi Daredevils,Kings XI Punjab,Kings XI Punjab,Delhi Daredevils,Feroz Shah Kotla,NULL,NULL,NULL
+548370,2012,Mumbai,5/16/2012,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,Wankhede Stadium,NULL,NULL,NULL
+548371,2012,Dharamsala,5/17/2012,Kings XI Punjab,Chennai Super Kings,Kings XI Punjab,Kings XI Punjab,Himachal Pradesh Cricket Association Stadium,NULL,NULL,NULL
+548372,2012,Delhi,5/17/2012,Delhi Daredevils,Royal Challengers Bangalore,Delhi Daredevils,Royal Challengers Bangalore,Feroz Shah Kotla,NULL,NULL,NULL
+548373,2012,Hyderabad,5/18/2012,Deccan Chargers,Rajasthan Royals,Rajasthan Royals,Deccan Chargers,"Rajiv Gandhi International Stadium, Uppal",NULL,NULL,NULL
+548374,2012,Dharamsala,5/19/2012,Kings XI Punjab,Delhi Daredevils,Delhi Daredevils,Delhi Daredevils,Himachal Pradesh Cricket Association Stadium,NULL,NULL,NULL
+548375,2012,Pune,5/19/2012,Pune Warriors,Kolkata Knight Riders,Kolkata Knight Riders,Kolkata Knight Riders,Subrata Roy Sahara Stadium,NULL,NULL,NULL
+548376,2012,Hyderabad,5/20/2012,Deccan Chargers,Royal Challengers Bangalore,Royal Challengers Bangalore,Deccan Chargers,"Rajiv Gandhi International Stadium, Uppal",NULL,NULL,NULL
+548377,2012,Jaipur,5/20/2012,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,Mumbai Indians,Sawai Mansingh Stadium,NULL,NULL,NULL
+548378,2012,Pune,5/22/2012,Delhi Daredevils,Kolkata Knight Riders,Kolkata Knight Riders,Kolkata Knight Riders,Subrata Roy Sahara Stadium,NULL,NULL,NULL
+548379,2012,Bangalore,5/23/2012,Chennai Super Kings,Mumbai Indians,Mumbai Indians,Chennai Super Kings,M Chinnaswamy Stadium,NULL,NULL,NULL
+548380,2012,Chennai,5/25/2012,Delhi Daredevils,Chennai Super Kings,Delhi Daredevils,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk",NULL,NULL,NULL
+548381,2012,Chennai,5/27/2012,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,Kolkata Knight Riders,"MA Chidambaram Stadium, Chepauk",NULL,NULL,NULL
+597998,2013,Kolkata,4/3/2013,Kolkata Knight Riders,Delhi Daredevils,Kolkata Knight Riders,Kolkata Knight Riders,Eden Gardens,NULL,NULL,NULL
+597999,2013,Bangalore,4/4/2013,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,Royal Challengers Bangalore,M Chinnaswamy Stadium,NULL,NULL,NULL
+598000,2013,Hyderabad,4/5/2013,Sunrisers Hyderabad,Pune Warriors,Pune Warriors,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal",NULL,NULL,NULL
+598001,2013,Delhi,4/6/2013,Delhi Daredevils,Rajasthan Royals,Rajasthan Royals,Rajasthan Royals,Feroz Shah Kotla,NULL,NULL,NULL
+598002,2013,Chennai,4/6/2013,Chennai Super Kings,Mumbai Indians,Mumbai Indians,Mumbai Indians,"MA Chidambaram Stadium, Chepauk",NULL,NULL,NULL
+598003,2013,Pune,4/7/2013,Pune Warriors,Kings XI Punjab,Pune Warriors,Kings XI Punjab,Subrata Roy Sahara Stadium,NULL,NULL,NULL
+598004,2013,Hyderabad,4/7/2013,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal",NULL,NULL,NULL
+598005,2013,Jaipur,4/8/2013,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,Rajasthan Royals,Sawai Mansingh Stadium,NULL,NULL,NULL
+598006,2013,Mumbai,4/9/2013,Mumbai Indians,Delhi Daredevils,Mumbai Indians,Mumbai Indians,Wankhede Stadium,NULL,NULL,NULL
+598048,2013,Bangalore,4/9/2013,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,Royal Challengers Bangalore,M Chinnaswamy Stadium,NULL,NULL,NULL
+598007,2013,Chandigarh,4/10/2013,Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,Chennai Super Kings,"Punjab Cricket Association Stadium, Mohali",NULL,NULL,NULL
+598008,2013,Bangalore,4/11/2013,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,M Chinnaswamy Stadium,NULL,NULL,NULL
+598009,2013,Pune,4/11/2013,Pune Warriors,Rajasthan Royals,Rajasthan Royals,Pune Warriors,Subrata Roy Sahara Stadium,NULL,NULL,NULL
+598010,2013,Delhi,4/12/2013,Delhi Daredevils,Sunrisers Hyderabad,Delhi Daredevils,Sunrisers Hyderabad,Feroz Shah Kotla,NULL,NULL,NULL
+598011,2013,Mumbai,4/13/2013,Mumbai Indians,Pune Warriors,Mumbai Indians,Mumbai Indians,Wankhede Stadium,NULL,NULL,NULL
+598012,2013,Chennai,4/13/2013,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk",NULL,NULL,NULL
+598013,2013,Kolkata,4/14/2013,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,Eden Gardens,NULL,NULL,NULL
+598014,2013,Jaipur,4/14/2013,Rajasthan Royals,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,Sawai Mansingh Stadium,NULL,NULL,NULL
+598015,2013,Chennai,4/15/2013,Chennai Super Kings,Pune Warriors,Pune Warriors,Pune Warriors,"MA Chidambaram Stadium, Chepauk",NULL,NULL,NULL
+598016,2013,Chandigarh,4/16/2013,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,Kings XI Punjab,"Punjab Cricket Association Stadium, Mohali",NULL,NULL,NULL
+598017,2013,Bangalore,4/16/2013,Royal Challengers Bangalore,Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,M Chinnaswamy Stadium,NULL,NULL,NULL
+598018,2013,Pune,4/17/2013,Pune Warriors,Sunrisers Hyderabad,Pune Warriors,Sunrisers Hyderabad,Maharashtra Cricket Association Stadium,NULL,NULL,NULL
+598019,2013,Jaipur,4/17/2013,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,Sawai Mansingh Stadium,NULL,NULL,NULL
+598020,2013,Delhi,4/18/2013,Delhi Daredevils,Chennai Super Kings,Chennai Super Kings,Chennai Super Kings,Feroz Shah Kotla,NULL,NULL,NULL
+598021,2013,Hyderabad,4/19/2013,Sunrisers Hyderabad,Kings XI Punjab,Kings XI Punjab,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal",NULL,NULL,NULL
+598022,2013,Kolkata,4/20/2013,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,Eden Gardens,NULL,NULL,NULL
+598023,2013,Bangalore,4/20/2013,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,M Chinnaswamy Stadium,NULL,NULL,NULL
+598024,2013,Delhi,4/21/2013,Delhi Daredevils,Mumbai Indians,Mumbai Indians,Delhi Daredevils,Feroz Shah Kotla,NULL,NULL,NULL
+598025,2013,Chandigarh,4/21/2013,Kings XI Punjab,Pune Warriors,Kings XI Punjab,Kings XI Punjab,"Punjab Cricket Association Stadium, Mohali",NULL,NULL,NULL
+598026,2013,Chennai,4/22/2013,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk",NULL,NULL,NULL
+598027,2013,Bangalore,4/23/2013,Royal Challengers Bangalore,Pune Warriors,Pune Warriors,Royal Challengers Bangalore,M Chinnaswamy Stadium,NULL,NULL,NULL
+598059,2013,Delhi,4/23/2013,Delhi Daredevils,Kings XI Punjab,Kings XI Punjab,Kings XI Punjab,Feroz Shah Kotla,NULL,NULL,NULL
+598029,2013,Kolkata,4/24/2013,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,Eden Gardens,NULL,NULL,NULL
+598030,2013,Chennai,4/25/2013,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk",NULL,NULL,NULL
+598031,2013,Kolkata,4/26/2013,Kolkata Knight Riders,Kings XI Punjab,Kings XI Punjab,Kolkata Knight Riders,Eden Gardens,NULL,NULL,NULL
+598032,2013,Jaipur,4/27/2013,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,Rajasthan Royals,Sawai Mansingh Stadium,NULL,NULL,NULL
+598033,2013,Mumbai,4/27/2013,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,Wankhede Stadium,NULL,NULL,NULL
+598034,2013,Chennai,4/28/2013,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk",NULL,NULL,NULL
+598035,2013,Raipur,4/28/2013,Delhi Daredevils,Pune Warriors,Pune Warriors,Delhi Daredevils,Shaheed Veer Narayan Singh International Stadium,NULL,NULL,NULL
+598036,2013,Jaipur,4/29/2013,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,Sawai Mansingh Stadium,NULL,NULL,NULL
+598037,2013,Mumbai,4/29/2013,Mumbai Indians,Kings XI Punjab,Mumbai Indians,Mumbai Indians,Wankhede Stadium,NULL,NULL,NULL
+598038,2013,Pune,4/30/2013,Pune Warriors,Chennai Super Kings,Chennai Super Kings,Chennai Super Kings,Subrata Roy Sahara Stadium,NULL,NULL,NULL
+598039,2013,Hyderabad,5/1/2013,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal",NULL,NULL,NULL
+598040,2013,Raipur,5/1/2013,Delhi Daredevils,Kolkata Knight Riders,Kolkata Knight Riders,Delhi Daredevils,Shaheed Veer Narayan Singh International Stadium,NULL,NULL,NULL
+598041,2013,Chennai,5/2/2013,Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk",NULL,NULL,NULL
+733973,2014,Mumbai,5/3/2014,Mumbai Indians,Kings XI Punjab,Kings XI Punjab,Mumbai Indians,Wankhede Stadium,NULL,NULL,NULL
+598042,2013,Pune,5/2/2013,Pune Warriors,Royal Challengers Bangalore,Royal Challengers Bangalore,Royal Challengers Bangalore,Subrata Roy Sahara Stadium,NULL,NULL,NULL
+598043,2013,Kolkata,5/3/2013,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,Kolkata Knight Riders,Eden Gardens,NULL,NULL,NULL
+598044,2013,Hyderabad,5/4/2013,Sunrisers Hyderabad,Delhi Daredevils,Delhi Daredevils,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal",NULL,NULL,NULL
+598046,2013,Mumbai,5/5/2013,Mumbai Indians,Chennai Super Kings,Mumbai Indians,Mumbai Indians,Wankhede Stadium,NULL,NULL,NULL
+598047,2013,Jaipur,5/5/2013,Rajasthan Royals,Pune Warriors,Pune Warriors,Rajasthan Royals,Sawai Mansingh Stadium,NULL,NULL,NULL
+598064,2013,Chandigarh,5/6/2013,Kings XI Punjab,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,"Punjab Cricket Association Stadium, Mohali",NULL,NULL,NULL
+598049,2013,Jaipur,5/7/2013,Rajasthan Royals,Delhi Daredevils,Delhi Daredevils,Rajasthan Royals,Sawai Mansingh Stadium,NULL,NULL,NULL
+598050,2013,Mumbai,5/7/2013,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,Wankhede Stadium,NULL,NULL,NULL
+598051,2013,Hyderabad,5/8/2013,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,"Rajiv Gandhi International Stadium, Uppal",NULL,NULL,NULL
+598052,2013,Chandigarh,5/9/2013,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,Rajasthan Royals,"Punjab Cricket Association Stadium, Mohali",NULL,NULL,NULL
+598053,2013,Pune,5/9/2013,Pune Warriors,Kolkata Knight Riders,Kolkata Knight Riders,Kolkata Knight Riders,Subrata Roy Sahara Stadium,NULL,NULL,NULL
+598054,2013,Delhi,5/10/2013,Delhi Daredevils,Royal Challengers Bangalore,Delhi Daredevils,Royal Challengers Bangalore,Feroz Shah Kotla,NULL,NULL,NULL
+598055,2013,Pune,5/11/2013,Pune Warriors,Mumbai Indians,Pune Warriors,Mumbai Indians,Subrata Roy Sahara Stadium,NULL,NULL,NULL
+598056,2013,Chandigarh,5/11/2013,Kings XI Punjab,Sunrisers Hyderabad,Kings XI Punjab,Sunrisers Hyderabad,"Punjab Cricket Association Stadium, Mohali",NULL,NULL,NULL
+598057,2013,Ranchi,5/12/2013,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,JSCA International Stadium Complex,NULL,NULL,NULL
+598058,2013,Jaipur,5/12/2013,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,Sawai Mansingh Stadium,NULL,NULL,NULL
+598060,2013,Mumbai,5/13/2013,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,Mumbai Indians,Wankhede Stadium,NULL,NULL,NULL
+598045,2013,Bangalore,5/14/2013,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,Kings XI Punjab,M Chinnaswamy Stadium,NULL,NULL,NULL
+598062,2013,Chennai,5/14/2013,Chennai Super Kings,Delhi Daredevils,Chennai Super Kings,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk",NULL,NULL,NULL
+598061,2013,Ranchi,5/15/2013,Kolkata Knight Riders,Pune Warriors,Kolkata Knight Riders,Pune Warriors,JSCA International Stadium Complex,NULL,NULL,NULL
+598063,2013,Mumbai,5/15/2013,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,Mumbai Indians,Wankhede Stadium,NULL,NULL,NULL
+598028,2013,Dharamsala,5/16/2013,Kings XI Punjab,Delhi Daredevils,Delhi Daredevils,Kings XI Punjab,Himachal Pradesh Cricket Association Stadium,NULL,NULL,NULL
+598065,2013,Hyderabad,5/17/2013,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal",NULL,NULL,NULL
+598066,2013,Dharamsala,5/18/2013,Kings XI Punjab,Mumbai Indians,Mumbai Indians,Kings XI Punjab,Himachal Pradesh Cricket Association Stadium,NULL,NULL,NULL
+598068,2013,Bangalore,5/18/2013,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,Royal Challengers Bangalore,M Chinnaswamy Stadium,NULL,NULL,NULL
+598067,2013,Pune,5/19/2013,Pune Warriors,Delhi Daredevils,Pune Warriors,Pune Warriors,Subrata Roy Sahara Stadium,NULL,NULL,NULL
+598069,2013,Hyderabad,5/19/2013,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal",NULL,NULL,NULL
+598070,2013,Delhi,5/21/2013,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,Feroz Shah Kotla,NULL,NULL,NULL
+598071,2013,Delhi,5/22/2013,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,Rajasthan Royals,Feroz Shah Kotla,NULL,NULL,NULL
+598072,2013,Kolkata,5/24/2013,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,Mumbai Indians,Eden Gardens,NULL,NULL,NULL
+598073,2013,Kolkata,5/26/2013,Chennai Super Kings,Mumbai Indians,Mumbai Indians,Mumbai Indians,Eden Gardens,NULL,NULL,NULL
+729279,2014,Abu Dhabi,4/16/2014,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,Kolkata Knight Riders,Sheikh Zayed Stadium,NULL,NULL,NULL
+729281,2014,NaN,4/17/2014,Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,Royal Challengers Bangalore,Sharjah Cricket Stadium,NULL,NULL,NULL
+729283,2014,Abu Dhabi,4/18/2014,Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,Kings XI Punjab,Sheikh Zayed Stadium,NULL,NULL,NULL
+729285,2014,Abu Dhabi,4/18/2014,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,Rajasthan Royals,Sheikh Zayed Stadium,NULL,NULL,NULL
+729287,2014,NaN,4/19/2014,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,Dubai International Cricket Stadium,NULL,NULL,NULL
+729289,2014,NaN,4/19/2014,Kolkata Knight Riders,Delhi Daredevils,Kolkata Knight Riders,Delhi Daredevils,Dubai International Cricket Stadium,NULL,NULL,NULL
+729291,2014,NaN,4/20/2014,Rajasthan Royals,Kings XI Punjab,Kings XI Punjab,Kings XI Punjab,Sharjah Cricket Stadium,NULL,NULL,NULL
+729293,2014,Abu Dhabi,4/21/2014,Chennai Super Kings,Delhi Daredevils,Chennai Super Kings,Chennai Super Kings,Sheikh Zayed Stadium,NULL,NULL,NULL
+729295,2014,NaN,4/22/2014,Kings XI Punjab,Sunrisers Hyderabad,Sunrisers Hyderabad,Kings XI Punjab,Sharjah Cricket Stadium,NULL,NULL,NULL
+729297,2014,NaN,4/23/2014,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,Dubai International Cricket Stadium,NULL,NULL,NULL
+729299,2014,NaN,4/24/2014,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,Sharjah Cricket Stadium,NULL,NULL,NULL
+729301,2014,NaN,4/25/2014,Sunrisers Hyderabad,Delhi Daredevils,Sunrisers Hyderabad,Sunrisers Hyderabad,Dubai International Cricket Stadium,NULL,NULL,NULL
+729303,2014,NaN,4/25/2014,Chennai Super Kings,Mumbai Indians,Mumbai Indians,Chennai Super Kings,Dubai International Cricket Stadium,NULL,NULL,NULL
+729305,2014,Abu Dhabi,4/26/2014,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,Sheikh Zayed Stadium,NULL,NULL,NULL
+729307,2014,Abu Dhabi,4/26/2014,Kolkata Knight Riders,Kings XI Punjab,Kolkata Knight Riders,Kings XI Punjab,Sheikh Zayed Stadium,NULL,NULL,NULL
+729309,2014,NaN,4/27/2014,Delhi Daredevils,Mumbai Indians,Mumbai Indians,Delhi Daredevils,Sharjah Cricket Stadium,NULL,NULL,NULL
+729311,2014,NaN,4/27/2014,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,Sharjah Cricket Stadium,NULL,NULL,NULL
+729313,2014,NaN,4/28/2014,Kings XI Punjab,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,Dubai International Cricket Stadium,NULL,NULL,NULL
+729315,2014,Abu Dhabi,4/29/2014,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,Rajasthan Royals,Sheikh Zayed Stadium,NULL,NULL,NULL
+729317,2014,NaN,4/30/2014,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,Dubai International Cricket Stadium,NULL,NULL,NULL
+733971,2014,Ranchi,5/2/2014,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,JSCA International Stadium Complex,NULL,NULL,NULL
+733975,2014,Delhi,5/3/2014,Delhi Daredevils,Rajasthan Royals,Rajasthan Royals,Rajasthan Royals,Feroz Shah Kotla,NULL,NULL,NULL
+733977,2014,Bangalore,5/4/2014,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,M Chinnaswamy Stadium,NULL,NULL,NULL
+733979,2014,Ahmedabad,5/5/2014,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,Rajasthan Royals,"Sardar Patel Stadium, Motera",NULL,NULL,NULL
+733981,2014,Delhi,5/5/2014,Delhi Daredevils,Chennai Super Kings,Chennai Super Kings,Chennai Super Kings,Feroz Shah Kotla,NULL,NULL,NULL
+733983,2014,Mumbai,5/6/2014,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,Mumbai Indians,Wankhede Stadium,NULL,NULL,NULL
+733985,2014,Delhi,5/7/2014,Delhi Daredevils,Kolkata Knight Riders,Delhi Daredevils,Kolkata Knight Riders,Feroz Shah Kotla,NULL,NULL,NULL
+733987,2014,Cuttack,5/7/2014,Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,Kings XI Punjab,Barabati Stadium,NULL,NULL,NULL
+733989,2014,Ahmedabad,5/8/2014,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,"Sardar Patel Stadium, Motera",NULL,NULL,NULL
+733991,2014,Bangalore,5/9/2014,Royal Challengers Bangalore,Kings XI Punjab,Royal Challengers Bangalore,Kings XI Punjab,M Chinnaswamy Stadium,NULL,NULL,NULL
+733993,2014,Delhi,5/10/2014,Delhi Daredevils,Sunrisers Hyderabad,Sunrisers Hyderabad,Sunrisers Hyderabad,Feroz Shah Kotla,NULL,NULL,NULL
+733995,2014,Mumbai,5/10/2014,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,Chennai Super Kings,Wankhede Stadium,NULL,NULL,NULL
+733997,2014,Cuttack,5/11/2014,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,Kolkata Knight Riders,Barabati Stadium,NULL,NULL,NULL
+733999,2014,Bangalore,5/11/2014,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,M Chinnaswamy Stadium,NULL,NULL,NULL
+734001,2014,Hyderabad,5/12/2014,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,"Rajiv Gandhi International Stadium, Uppal",NULL,NULL,NULL
+734003,2014,Ranchi,5/13/2014,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,Chennai Super Kings,JSCA International Stadium Complex,NULL,NULL,NULL
+734005,2014,Bangalore,5/13/2014,Royal Challengers Bangalore,Delhi Daredevils,Delhi Daredevils,Royal Challengers Bangalore,M Chinnaswamy Stadium,NULL,NULL,NULL
+734007,2014,Hyderabad,5/14/2014,Sunrisers Hyderabad,Kings XI Punjab,Kings XI Punjab,Kings XI Punjab,"Rajiv Gandhi International Stadium, Uppal",NULL,NULL,NULL
+734009,2014,Cuttack,5/14/2014,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,Barabati Stadium,NULL,NULL,NULL
+734011,2014,Ahmedabad,5/15/2014,Rajasthan Royals,Delhi Daredevils,Delhi Daredevils,Rajasthan Royals,"Sardar Patel Stadium, Motera",NULL,NULL,NULL
+734013,2014,Ranchi,5/18/2014,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,JSCA International Stadium Complex,NULL,NULL,NULL
+734015,2014,Hyderabad,5/18/2014,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,"Rajiv Gandhi International Stadium, Uppal",NULL,NULL,NULL
+734017,2014,Ahmedabad,5/19/2014,Rajasthan Royals,Mumbai Indians,Mumbai Indians,Mumbai Indians,"Sardar Patel Stadium, Motera",NULL,NULL,NULL
+734019,2014,Delhi,5/19/2014,Delhi Daredevils,Kings XI Punjab,Kings XI Punjab,Kings XI Punjab,Feroz Shah Kotla,NULL,NULL,NULL
+734021,2014,Hyderabad,5/20/2014,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal",NULL,NULL,NULL
+734023,2014,Kolkata,5/20/2014,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,Eden Gardens,NULL,NULL,NULL
+734025,2014,Chandigarh,5/21/2014,Kings XI Punjab,Mumbai Indians,Mumbai Indians,Mumbai Indians,"Punjab Cricket Association Stadium, Mohali",NULL,NULL,NULL
+734027,2014,Kolkata,5/22/2014,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,Kolkata Knight Riders,Eden Gardens,NULL,NULL,NULL
+734029,2014,Ranchi,5/22/2014,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,Sunrisers Hyderabad,JSCA International Stadium Complex,NULL,NULL,NULL
+734031,2014,Mumbai,5/23/2014,Mumbai Indians,Delhi Daredevils,Delhi Daredevils,Mumbai Indians,Wankhede Stadium,NULL,NULL,NULL
+734033,2014,Chandigarh,5/23/2014,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,Kings XI Punjab,"Punjab Cricket Association Stadium, Mohali",NULL,NULL,NULL
+734035,2014,Bangalore,5/24/2014,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,Chennai Super Kings,M Chinnaswamy Stadium,NULL,NULL,NULL
+734037,2014,Kolkata,5/24/2014,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,Eden Gardens,NULL,NULL,NULL
+734039,2014,Chandigarh,5/25/2014,Kings XI Punjab,Delhi Daredevils,Kings XI Punjab,Kings XI Punjab,"Punjab Cricket Association Stadium, Mohali",NULL,NULL,NULL
+734041,2014,Mumbai,5/25/2014,Mumbai Indians,Rajasthan Royals,Mumbai Indians,Mumbai Indians,Wankhede Stadium,NULL,NULL,NULL
+734043,2014,Kolkata,5/27/2014,Kings XI Punjab,Kolkata Knight Riders,Kings XI Punjab,Kolkata Knight Riders,Eden Gardens,NULL,NULL,NULL
+734045,2014,Mumbai,5/28/2014,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,Brabourne Stadium,NULL,NULL,NULL
+734047,2014,Mumbai,5/30/2014,Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,Kings XI Punjab,Wankhede Stadium,NULL,NULL,NULL
+734049,2014,Bangalore,6/1/2014,Kolkata Knight Riders,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,M Chinnaswamy Stadium,NULL,NULL,NULL
+829705,2015,Kolkata,4/8/2015,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,Eden Gardens,NULL,NULL,NULL
+829707,2015,Chennai,4/9/2015,Chennai Super Kings,Delhi Daredevils,Delhi Daredevils,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk",NULL,NULL,NULL
+829709,2015,Pune,4/10/2015,Kings XI Punjab,Rajasthan Royals,Kings XI Punjab,Rajasthan Royals,Maharashtra Cricket Association Stadium,NULL,NULL,NULL
+829711,2015,Chennai,4/11/2015,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk",NULL,NULL,NULL
+829713,2015,Kolkata,4/11/2015,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,Royal Challengers Bangalore,Eden Gardens,NULL,NULL,NULL
+829715,2015,Delhi,4/12/2015,Delhi Daredevils,Rajasthan Royals,Rajasthan Royals,Rajasthan Royals,Feroz Shah Kotla,NULL,NULL,NULL
+829717,2015,Mumbai,4/12/2015,Mumbai Indians,Kings XI Punjab,Mumbai Indians,Kings XI Punjab,Wankhede Stadium,NULL,NULL,NULL
+829719,2015,Bangalore,4/13/2015,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,Sunrisers Hyderabad,M Chinnaswamy Stadium,NULL,NULL,NULL
+829721,2015,Ahmedabad,4/14/2015,Rajasthan Royals,Mumbai Indians,Mumbai Indians,Rajasthan Royals,"Sardar Patel Stadium, Motera",NULL,NULL,NULL
+829725,2015,Pune,4/15/2015,Kings XI Punjab,Delhi Daredevils,Kings XI Punjab,Delhi Daredevils,Maharashtra Cricket Association Stadium,NULL,NULL,NULL
+829727,2015,Visakhapatnam,4/16/2015,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,Rajasthan Royals,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,NULL,NULL,NULL
+829729,2015,Mumbai,4/17/2015,Mumbai Indians,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,Wankhede Stadium,NULL,NULL,NULL
+829731,2015,Visakhapatnam,4/18/2015,Sunrisers Hyderabad,Delhi Daredevils,Delhi Daredevils,Delhi Daredevils,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,NULL,NULL,NULL
+829733,2015,Pune,4/18/2015,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,Kolkata Knight Riders,Maharashtra Cricket Association Stadium,NULL,NULL,NULL
+829735,2015,Ahmedabad,4/19/2015,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,Rajasthan Royals,"Sardar Patel Stadium, Motera",NULL,NULL,NULL
+829737,2015,Bangalore,4/19/2015,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,M Chinnaswamy Stadium,NULL,NULL,NULL
+829739,2015,Delhi,4/20/2015,Delhi Daredevils,Kolkata Knight Riders,Kolkata Knight Riders,Kolkata Knight Riders,Feroz Shah Kotla,NULL,NULL,NULL
+829741,2015,Ahmedabad,4/21/2015,Rajasthan Royals,Kings XI Punjab,Kings XI Punjab,Kings XI Punjab,"Sardar Patel Stadium, Motera",NULL,NULL,NULL
+829743,2015,Visakhapatnam,4/22/2015,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,Sunrisers Hyderabad,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,NULL,NULL,NULL
+829745,2015,Bangalore,4/22/2015,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,M Chinnaswamy Stadium,NULL,NULL,NULL
+829747,2015,Delhi,4/23/2015,Delhi Daredevils,Mumbai Indians,Mumbai Indians,Delhi Daredevils,Feroz Shah Kotla,NULL,NULL,NULL
+829749,2015,Ahmedabad,4/24/2015,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,Royal Challengers Bangalore,"Sardar Patel Stadium, Motera",NULL,NULL,NULL
+829751,2015,Mumbai,4/25/2015,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,Wankhede Stadium,NULL,NULL,NULL
+829753,2015,Chennai,4/25/2015,Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk",NULL,NULL,NULL
+829757,2015,Delhi,4/26/2015,Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,Royal Challengers Bangalore,Feroz Shah Kotla,NULL,NULL,NULL
+829759,2015,Chandigarh,4/27/2015,Kings XI Punjab,Sunrisers Hyderabad,Kings XI Punjab,Sunrisers Hyderabad,"Punjab Cricket Association Stadium, Mohali",NULL,NULL,NULL
+829765,2015,Chennai,4/28/2015,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk",NULL,NULL,NULL
+829763,2015,Bangalore,4/29/2015,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,NaN,M Chinnaswamy Stadium,NULL,NULL,NULL
+829723,2015,Kolkata,4/30/2015,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,Eden Gardens,NULL,NULL,NULL
+829767,2015,Delhi,5/1/2015,Delhi Daredevils,Kings XI Punjab,Delhi Daredevils,Delhi Daredevils,Feroz Shah Kotla,NULL,NULL,NULL
+829769,2015,Mumbai,5/1/2015,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,Mumbai Indians,Wankhede Stadium,NULL,NULL,NULL
+829771,2015,Bangalore,5/2/2015,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,M Chinnaswamy Stadium,NULL,NULL,NULL
+829773,2015,Hyderabad,5/2/2015,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal",NULL,NULL,NULL
+829775,2015,Chandigarh,5/3/2015,Kings XI Punjab,Mumbai Indians,Mumbai Indians,Mumbai Indians,"Punjab Cricket Association Stadium, Mohali",NULL,NULL,NULL
+829777,2015,Mumbai,5/3/2015,Rajasthan Royals,Delhi Daredevils,Delhi Daredevils,Rajasthan Royals,Brabourne Stadium,NULL,NULL,NULL
+829779,2015,Chennai,5/4/2015,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk",NULL,NULL,NULL
+829781,2015,Kolkata,5/4/2015,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,Kolkata Knight Riders,Eden Gardens,NULL,NULL,NULL
+829783,2015,Mumbai,5/5/2015,Mumbai Indians,Delhi Daredevils,Delhi Daredevils,Mumbai Indians,Wankhede Stadium,NULL,NULL,NULL
+829785,2015,Bangalore,5/6/2015,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,Royal Challengers Bangalore,M Chinnaswamy Stadium,NULL,NULL,NULL
+829761,2015,Kolkata,5/7/2015,Kolkata Knight Riders,Delhi Daredevils,Kolkata Knight Riders,Kolkata Knight Riders,Eden Gardens,NULL,NULL,NULL
+829787,2015,Mumbai,5/7/2015,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,Brabourne Stadium,NULL,NULL,NULL
+829789,2015,Chennai,5/8/2015,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,Mumbai Indians,"MA Chidambaram Stadium, Chepauk",NULL,NULL,NULL
+829791,2015,Kolkata,5/9/2015,Kolkata Knight Riders,Kings XI Punjab,Kings XI Punjab,Kolkata Knight Riders,Eden Gardens,NULL,NULL,NULL
+829793,2015,Raipur,5/9/2015,Delhi Daredevils,Sunrisers Hyderabad,Sunrisers Hyderabad,Sunrisers Hyderabad,Shaheed Veer Narayan Singh International Stadium,NULL,NULL,NULL
+829795,2015,Mumbai,5/10/2015,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,Royal Challengers Bangalore,Wankhede Stadium,NULL,NULL,NULL
+829797,2015,Chennai,5/10/2015,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk",NULL,NULL,NULL
+829799,2015,Hyderabad,5/11/2015,Sunrisers Hyderabad,Kings XI Punjab,Sunrisers Hyderabad,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal",NULL,NULL,NULL
+829801,2015,Raipur,5/12/2015,Delhi Daredevils,Chennai Super Kings,Chennai Super Kings,Delhi Daredevils,Shaheed Veer Narayan Singh International Stadium,NULL,NULL,NULL
+829803,2015,Chandigarh,5/13/2015,Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,Kings XI Punjab,"Punjab Cricket Association Stadium, Mohali",NULL,NULL,NULL
+829805,2015,Mumbai,5/14/2015,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,Mumbai Indians,Wankhede Stadium,NULL,NULL,NULL
+829807,2015,Hyderabad,5/15/2015,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,"Rajiv Gandhi International Stadium, Uppal",NULL,NULL,NULL
+829809,2015,Chandigarh,5/16/2015,Kings XI Punjab,Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,"Punjab Cricket Association Stadium, Mohali",NULL,NULL,NULL
+829811,2015,Mumbai,5/16/2015,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,Brabourne Stadium,NULL,NULL,NULL
+829813,2015,Bangalore,5/17/2015,Royal Challengers Bangalore,Delhi Daredevils,Royal Challengers Bangalore,NaN,M Chinnaswamy Stadium,NULL,NULL,NULL
+829815,2015,Hyderabad,5/17/2015,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,"Rajiv Gandhi International Stadium, Uppal",NULL,NULL,NULL
+829817,2015,Mumbai,5/19/2015,Chennai Super Kings,Mumbai Indians,Mumbai Indians,Mumbai Indians,Wankhede Stadium,NULL,NULL,NULL
+829819,2015,Pune,5/20/2015,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,Maharashtra Cricket Association Stadium,NULL,NULL,NULL
+829821,2015,Ranchi,5/22/2015,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,JSCA International Stadium Complex,NULL,NULL,NULL
+829823,2015,Kolkata,5/24/2015,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,Mumbai Indians,Eden Gardens,NULL,NULL,NULL
+980901,2016,Mumbai,4/9/2016,Mumbai Indians,Rising Pune Supergiants,Mumbai Indians,Rising Pune Supergiants,Wankhede Stadium,NULL,NULL,NULL
+980903,2016,Kolkata,4/10/2016,Kolkata Knight Riders,Delhi Daredevils,Kolkata Knight Riders,Kolkata Knight Riders,Eden Gardens,NULL,NULL,NULL
+980905,2016,Chandigarh,4/11/2016,Kings XI Punjab,Gujarat Lions,Gujarat Lions,Gujarat Lions,"Punjab Cricket Association IS Bindra Stadium, Mohali",NULL,NULL,NULL
+980907,2016,Bangalore,4/12/2016,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,Royal Challengers Bangalore,M Chinnaswamy Stadium,NULL,NULL,NULL
+980909,2016,Kolkata,4/13/2016,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,Mumbai Indians,Eden Gardens,NULL,NULL,NULL
+980911,2016,Rajkot,4/14/2016,Gujarat Lions,Rising Pune Supergiants,Rising Pune Supergiants,Gujarat Lions,Saurashtra Cricket Association Stadium,NULL,NULL,NULL
+980913,2016,Delhi,4/15/2016,Delhi Daredevils,Kings XI Punjab,Delhi Daredevils,Delhi Daredevils,Feroz Shah Kotla,NULL,NULL,NULL
+980915,2016,Hyderabad,4/16/2016,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,"Rajiv Gandhi International Stadium, Uppal",NULL,NULL,NULL
+980917,2016,Mumbai,4/16/2016,Mumbai Indians,Gujarat Lions,Gujarat Lions,Gujarat Lions,Wankhede Stadium,NULL,NULL,NULL
+980919,2016,Chandigarh,4/17/2016,Kings XI Punjab,Rising Pune Supergiants,Rising Pune Supergiants,Kings XI Punjab,"Punjab Cricket Association IS Bindra Stadium, Mohali",NULL,NULL,NULL
+980921,2016,Bangalore,4/17/2016,Royal Challengers Bangalore,Delhi Daredevils,Delhi Daredevils,Delhi Daredevils,M Chinnaswamy Stadium,NULL,NULL,NULL
+980923,2016,Hyderabad,4/18/2016,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal",NULL,NULL,NULL
+980925,2016,Chandigarh,4/19/2016,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,Kolkata Knight Riders,"Punjab Cricket Association IS Bindra Stadium, Mohali",NULL,NULL,NULL
+980927,2016,Mumbai,4/20/2016,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,Wankhede Stadium,NULL,NULL,NULL
+980929,2016,Rajkot,4/21/2016,Gujarat Lions,Sunrisers Hyderabad,Sunrisers Hyderabad,Sunrisers Hyderabad,Saurashtra Cricket Association Stadium,NULL,NULL,NULL
+980931,2016,Pune,4/22/2016,Rising Pune Supergiants,Royal Challengers Bangalore,Rising Pune Supergiants,Royal Challengers Bangalore,Maharashtra Cricket Association Stadium,NULL,NULL,NULL
+980933,2016,Delhi,4/23/2016,Delhi Daredevils,Mumbai Indians,Mumbai Indians,Delhi Daredevils,Feroz Shah Kotla,NULL,NULL,NULL
+980935,2016,Hyderabad,4/23/2016,Sunrisers Hyderabad,Kings XI Punjab,Sunrisers Hyderabad,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal",NULL,NULL,NULL
+980937,2016,Rajkot,4/24/2016,Gujarat Lions,Royal Challengers Bangalore,Royal Challengers Bangalore,Gujarat Lions,Saurashtra Cricket Association Stadium,NULL,NULL,NULL
+980939,2016,Pune,4/24/2016,Rising Pune Supergiants,Kolkata Knight Riders,Kolkata Knight Riders,Kolkata Knight Riders,Maharashtra Cricket Association Stadium,NULL,NULL,NULL
+980941,2016,Chandigarh,4/25/2016,Kings XI Punjab,Mumbai Indians,Kings XI Punjab,Mumbai Indians,"Punjab Cricket Association IS Bindra Stadium, Mohali",NULL,NULL,NULL
+980943,2016,Hyderabad,4/26/2016,Sunrisers Hyderabad,Rising Pune Supergiants,Rising Pune Supergiants,Rising Pune Supergiants,"Rajiv Gandhi International Stadium, Uppal",NULL,NULL,NULL
+980945,2016,Delhi,4/27/2016,Delhi Daredevils,Gujarat Lions,Delhi Daredevils,Gujarat Lions,Feroz Shah Kotla,NULL,NULL,NULL
+980947,2016,Mumbai,4/28/2016,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,Wankhede Stadium,NULL,NULL,NULL
+980949,2016,Pune,4/29/2016,Rising Pune Supergiants,Gujarat Lions,Gujarat Lions,Gujarat Lions,Maharashtra Cricket Association Stadium,NULL,NULL,NULL
+980951,2016,Delhi,4/30/2016,Delhi Daredevils,Kolkata Knight Riders,Kolkata Knight Riders,Delhi Daredevils,Feroz Shah Kotla,NULL,NULL,NULL
+980953,2016,Hyderabad,4/30/2016,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal",NULL,NULL,NULL
+980955,2016,Rajkot,5/1/2016,Gujarat Lions,Kings XI Punjab,Gujarat Lions,Kings XI Punjab,Saurashtra Cricket Association Stadium,NULL,NULL,NULL
+980957,2016,Pune,5/1/2016,Rising Pune Supergiants,Mumbai Indians,Mumbai Indians,Mumbai Indians,Maharashtra Cricket Association Stadium,NULL,NULL,NULL
+980959,2016,Bangalore,5/2/2016,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,Kolkata Knight Riders,M Chinnaswamy Stadium,NULL,NULL,NULL
+980961,2016,Rajkot,5/3/2016,Gujarat Lions,Delhi Daredevils,Delhi Daredevils,Delhi Daredevils,Saurashtra Cricket Association Stadium,NULL,NULL,NULL
+980963,2016,Kolkata,5/4/2016,Kolkata Knight Riders,Kings XI Punjab,Kings XI Punjab,Kolkata Knight Riders,Eden Gardens,NULL,NULL,NULL
+980965,2016,Delhi,5/5/2016,Delhi Daredevils,Rising Pune Supergiants,Rising Pune Supergiants,Rising Pune Supergiants,Feroz Shah Kotla,NULL,NULL,NULL
+980967,2016,Hyderabad,5/6/2016,Sunrisers Hyderabad,Gujarat Lions,Sunrisers Hyderabad,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal",NULL,NULL,NULL
+980969,2016,Bangalore,5/7/2016,Royal Challengers Bangalore,Rising Pune Supergiants,Royal Challengers Bangalore,Royal Challengers Bangalore,M Chinnaswamy Stadium,NULL,NULL,NULL
+980971,2016,Chandigarh,5/7/2016,Kings XI Punjab,Delhi Daredevils,Delhi Daredevils,Kings XI Punjab,"Punjab Cricket Association IS Bindra Stadium, Mohali",NULL,NULL,NULL
+980973,2016,Visakhapatnam,5/8/2016,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,NULL,NULL,NULL
+980975,2016,Kolkata,5/8/2016,Kolkata Knight Riders,Gujarat Lions,Gujarat Lions,Gujarat Lions,Eden Gardens,NULL,NULL,NULL
+980977,2016,Chandigarh,5/9/2016,Kings XI Punjab,Royal Challengers Bangalore,Kings XI Punjab,Royal Challengers Bangalore,"Punjab Cricket Association IS Bindra Stadium, Mohali",NULL,NULL,NULL
+980979,2016,Visakhapatnam,5/10/2016,Rising Pune Supergiants,Sunrisers Hyderabad,Sunrisers Hyderabad,Sunrisers Hyderabad,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,NULL,NULL,NULL
+980981,2016,Bangalore,5/11/2016,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,Mumbai Indians,M Chinnaswamy Stadium,NULL,NULL,NULL
+980983,2016,Hyderabad,5/12/2016,Sunrisers Hyderabad,Delhi Daredevils,Delhi Daredevils,Delhi Daredevils,"Rajiv Gandhi International Stadium, Uppal",NULL,NULL,NULL
+980985,2016,Visakhapatnam,5/13/2016,Mumbai Indians,Kings XI Punjab,Mumbai Indians,Kings XI Punjab,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,NULL,NULL,NULL
+980987,2016,Bangalore,5/14/2016,Royal Challengers Bangalore,Gujarat Lions,Gujarat Lions,Royal Challengers Bangalore,M Chinnaswamy Stadium,NULL,NULL,NULL
+980989,2016,Kolkata,5/14/2016,Kolkata Knight Riders,Rising Pune Supergiants,Rising Pune Supergiants,Kolkata Knight Riders,Eden Gardens,NULL,NULL,NULL
+980991,2016,Chandigarh,5/15/2016,Kings XI Punjab,Sunrisers Hyderabad,Kings XI Punjab,Sunrisers Hyderabad,"Punjab Cricket Association IS Bindra Stadium, Mohali",NULL,NULL,NULL
+980993,2016,Visakhapatnam,5/15/2016,Mumbai Indians,Delhi Daredevils,Delhi Daredevils,Mumbai Indians,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,NULL,NULL,NULL
+980995,2016,Kolkata,5/16/2016,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,Royal Challengers Bangalore,Eden Gardens,NULL,NULL,NULL
+980997,2016,Visakhapatnam,5/17/2016,Rising Pune Supergiants,Delhi Daredevils,Rising Pune Supergiants,Rising Pune Supergiants,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,NULL,NULL,NULL
+980999,2016,Bangalore,5/18/2016,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,Royal Challengers Bangalore,M Chinnaswamy Stadium,NULL,NULL,NULL
+981001,2016,Kanpur,5/19/2016,Gujarat Lions,Kolkata Knight Riders,Gujarat Lions,Gujarat Lions,Green Park,NULL,NULL,NULL
+981003,2016,Raipur,5/20/2016,Delhi Daredevils,Sunrisers Hyderabad,Delhi Daredevils,Delhi Daredevils,Shaheed Veer Narayan Singh International Stadium,NULL,NULL,NULL
+981005,2016,Visakhapatnam,5/21/2016,Rising Pune Supergiants,Kings XI Punjab,Kings XI Punjab,Rising Pune Supergiants,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,NULL,NULL,NULL
+981007,2016,Kanpur,5/21/2016,Gujarat Lions,Mumbai Indians,Gujarat Lions,Gujarat Lions,Green Park,NULL,NULL,NULL
+981009,2016,Kolkata,5/22/2016,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,Kolkata Knight Riders,Eden Gardens,NULL,NULL,NULL
+981011,2016,Raipur,5/22/2016,Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,Royal Challengers Bangalore,Shaheed Veer Narayan Singh International Stadium,NULL,NULL,NULL
+981013,2016,Bangalore,5/24/2016,Gujarat Lions,Royal Challengers Bangalore,Royal Challengers Bangalore,Royal Challengers Bangalore,M Chinnaswamy Stadium,NULL,NULL,NULL
+981015,2016,Delhi,5/25/2016,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,Sunrisers Hyderabad,Feroz Shah Kotla,NULL,NULL,NULL
+981017,2016,Delhi,5/27/2016,Gujarat Lions,Sunrisers Hyderabad,Sunrisers Hyderabad,Sunrisers Hyderabad,Feroz Shah Kotla,NULL,NULL,NULL
+981019,2016,Bangalore,5/29/2016,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,Sunrisers Hyderabad,M Chinnaswamy Stadium,NULL,NULL,NULL
+1082591,2017,Hyderabad,4/5/2017,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal",NULL,NULL,NULL
+1082592,2017,Pune,4/6/2017,Rising Pune Supergiant,Mumbai Indians,Rising Pune Supergiant,Rising Pune Supergiant,Maharashtra Cricket Association Stadium,NULL,NULL,NULL
+1082593,2017,Rajkot,4/7/2017,Gujarat Lions,Kolkata Knight Riders,Kolkata Knight Riders,Kolkata Knight Riders,Saurashtra Cricket Association Stadium,NULL,NULL,NULL
+1082594,2017,Indore,4/8/2017,Kings XI Punjab,Rising Pune Supergiant,Kings XI Punjab,Kings XI Punjab,Holkar Cricket Stadium,NULL,NULL,NULL
+1082595,2017,Bengaluru,4/8/2017,Royal Challengers Bangalore,Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,M.Chinnaswamy Stadium,NULL,NULL,NULL
+1082596,2017,Hyderabad,4/9/2017,Sunrisers Hyderabad,Gujarat Lions,Sunrisers Hyderabad,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal",NULL,NULL,NULL
+1082597,2017,Mumbai,4/9/2017,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,Wankhede Stadium,NULL,NULL,NULL
+1082598,2017,Indore,4/10/2017,Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,Kings XI Punjab,Holkar Cricket Stadium,NULL,NULL,NULL
+1082599,2017,Pune,4/11/2017,Rising Pune Supergiant,Delhi Daredevils,Rising Pune Supergiant,Delhi Daredevils,Maharashtra Cricket Association Stadium,NULL,NULL,NULL
+1082600,2017,Mumbai,4/12/2017,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,Wankhede Stadium,NULL,NULL,NULL
+1082601,2017,Kolkata,4/13/2017,Kolkata Knight Riders,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,Eden Gardens,NULL,NULL,NULL
+1082602,2017,Bangalore,4/14/2017,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,Mumbai Indians,M Chinnaswamy Stadium,NULL,NULL,NULL
+1082603,2017,Rajkot,4/14/2017,Gujarat Lions,Rising Pune Supergiant,Gujarat Lions,Gujarat Lions,Saurashtra Cricket Association Stadium,NULL,NULL,NULL
+1082604,2017,Kolkata,4/15/2017,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,Kolkata Knight Riders,Eden Gardens,NULL,NULL,NULL
+1082605,2017,Delhi,4/15/2017,Delhi Daredevils,Kings XI Punjab,Delhi Daredevils,Delhi Daredevils,Feroz Shah Kotla,NULL,NULL,NULL
+1082606,2017,Mumbai,4/16/2017,Mumbai Indians,Gujarat Lions,Mumbai Indians,Mumbai Indians,Wankhede Stadium,NULL,NULL,NULL
+1082607,2017,Bangalore,4/16/2017,Royal Challengers Bangalore,Rising Pune Supergiant,Royal Challengers Bangalore,Rising Pune Supergiant,M Chinnaswamy Stadium,NULL,NULL,NULL
+1082608,2017,Delhi,4/17/2017,Delhi Daredevils,Kolkata Knight Riders,Delhi Daredevils,Kolkata Knight Riders,Feroz Shah Kotla,NULL,NULL,NULL
+1082609,2017,Hyderabad,4/17/2017,Sunrisers Hyderabad,Kings XI Punjab,Kings XI Punjab,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal",NULL,NULL,NULL
+1082610,2017,Rajkot,4/18/2017,Gujarat Lions,Royal Challengers Bangalore,Gujarat Lions,Royal Challengers Bangalore,Saurashtra Cricket Association Stadium,NULL,NULL,NULL
+1082611,2017,Hyderabad,4/19/2017,Sunrisers Hyderabad,Delhi Daredevils,Sunrisers Hyderabad,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal",NULL,NULL,NULL
+1082612,2017,Indore,4/20/2017,Kings XI Punjab,Mumbai Indians,Mumbai Indians,Mumbai Indians,Holkar Cricket Stadium,NULL,NULL,NULL
+1082613,2017,Kolkata,4/21/2017,Kolkata Knight Riders,Gujarat Lions,Gujarat Lions,Gujarat Lions,Eden Gardens,NULL,NULL,NULL
+1082614,2017,Mumbai,4/22/2017,Mumbai Indians,Delhi Daredevils,Delhi Daredevils,Mumbai Indians,Wankhede Stadium,NULL,NULL,NULL
+1082615,2017,Pune,4/22/2017,Rising Pune Supergiant,Sunrisers Hyderabad,Rising Pune Supergiant,Rising Pune Supergiant,Maharashtra Cricket Association Stadium,NULL,NULL,NULL
+1082616,2017,Rajkot,4/23/2017,Gujarat Lions,Kings XI Punjab,Gujarat Lions,Kings XI Punjab,Saurashtra Cricket Association Stadium,NULL,NULL,NULL
+1082617,2017,Kolkata,4/23/2017,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,Kolkata Knight Riders,Eden Gardens,NULL,NULL,NULL
+1082618,2017,Mumbai,4/24/2017,Mumbai Indians,Rising Pune Supergiant,Mumbai Indians,Rising Pune Supergiant,Wankhede Stadium,NULL,NULL,NULL
+1082620,2017,Pune,4/26/2017,Rising Pune Supergiant,Kolkata Knight Riders,Kolkata Knight Riders,Kolkata Knight Riders,Maharashtra Cricket Association Stadium,NULL,NULL,NULL
+1082621,2017,Bangalore,4/27/2017,Royal Challengers Bangalore,Gujarat Lions,Gujarat Lions,Gujarat Lions,M Chinnaswamy Stadium,NULL,NULL,NULL
+1082622,2017,Kolkata,4/28/2017,Kolkata Knight Riders,Delhi Daredevils,Kolkata Knight Riders,Kolkata Knight Riders,Eden Gardens,NULL,NULL,NULL
+1082623,2017,Chandigarh,4/28/2017,Kings XI Punjab,Sunrisers Hyderabad,Kings XI Punjab,Sunrisers Hyderabad,"Punjab Cricket Association IS Bindra Stadium, Mohali",NULL,NULL,NULL
+1082624,2017,Pune,4/29/2017,Rising Pune Supergiant,Royal Challengers Bangalore,Royal Challengers Bangalore,Rising Pune Supergiant,Maharashtra Cricket Association Stadium,NULL,NULL,NULL
+1082625,2017,Rajkot,4/29/2017,Gujarat Lions,Mumbai Indians,Gujarat Lions,Mumbai Indians,Saurashtra Cricket Association Stadium,NULL,NULL,NULL
+1082626,2017,Chandigarh,4/30/2017,Kings XI Punjab,Delhi Daredevils,Kings XI Punjab,Kings XI Punjab,"Punjab Cricket Association IS Bindra Stadium, Mohali",NULL,NULL,NULL
+1082627,2017,Hyderabad,4/30/2017,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal",NULL,NULL,NULL
+1082628,2017,Mumbai,5/1/2017,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,Mumbai Indians,Wankhede Stadium,NULL,NULL,NULL
+1082629,2017,Pune,5/1/2017,Rising Pune Supergiant,Gujarat Lions,Rising Pune Supergiant,Rising Pune Supergiant,Maharashtra Cricket Association Stadium,NULL,NULL,NULL
+1082630,2017,Delhi,5/2/2017,Delhi Daredevils,Sunrisers Hyderabad,Delhi Daredevils,Delhi Daredevils,Feroz Shah Kotla,NULL,NULL,NULL
+1082631,2017,Kolkata,5/3/2017,Kolkata Knight Riders,Rising Pune Supergiant,Rising Pune Supergiant,Rising Pune Supergiant,Eden Gardens,NULL,NULL,NULL
+1082632,2017,Delhi,5/4/2017,Delhi Daredevils,Gujarat Lions,Delhi Daredevils,Delhi Daredevils,Feroz Shah Kotla,NULL,NULL,NULL
+1082633,2017,Bangalore,5/5/2017,Royal Challengers Bangalore,Kings XI Punjab,Royal Challengers Bangalore,Kings XI Punjab,M Chinnaswamy Stadium,NULL,NULL,NULL
+1082634,2017,Hyderabad,5/6/2017,Sunrisers Hyderabad,Rising Pune Supergiant,Sunrisers Hyderabad,Rising Pune Supergiant,"Rajiv Gandhi International Stadium, Uppal",NULL,NULL,NULL
+1082635,2017,Delhi,5/6/2017,Delhi Daredevils,Mumbai Indians,Delhi Daredevils,Mumbai Indians,Feroz Shah Kotla,NULL,NULL,NULL
+1082636,2017,Bangalore,5/7/2017,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,Kolkata Knight Riders,M Chinnaswamy Stadium,NULL,NULL,NULL
+1082637,2017,Chandigarh,5/7/2017,Kings XI Punjab,Gujarat Lions,Gujarat Lions,Gujarat Lions,"Punjab Cricket Association IS Bindra Stadium, Mohali",NULL,NULL,NULL
+1082638,2017,Hyderabad,5/8/2017,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal",NULL,NULL,NULL
+1082639,2017,Chandigarh,5/9/2017,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,Kings XI Punjab,"Punjab Cricket Association IS Bindra Stadium, Mohali",NULL,NULL,NULL
+1082640,2017,Kanpur,5/10/2017,Gujarat Lions,Delhi Daredevils,Delhi Daredevils,Delhi Daredevils,Green Park,NULL,NULL,NULL
+1082641,2017,Mumbai,5/11/2017,Mumbai Indians,Kings XI Punjab,Mumbai Indians,Kings XI Punjab,Wankhede Stadium,NULL,NULL,NULL
+1082642,2017,Delhi,5/12/2017,Delhi Daredevils,Rising Pune Supergiant,Delhi Daredevils,Delhi Daredevils,Feroz Shah Kotla,NULL,NULL,NULL
+1082643,2017,Kanpur,5/13/2017,Gujarat Lions,Sunrisers Hyderabad,Sunrisers Hyderabad,Sunrisers Hyderabad,Green Park,NULL,NULL,NULL
+1082644,2017,Kolkata,5/13/2017,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,Eden Gardens,NULL,NULL,NULL
+1082645,2017,Pune,5/14/2017,Rising Pune Supergiant,Kings XI Punjab,Rising Pune Supergiant,Rising Pune Supergiant,Maharashtra Cricket Association Stadium,NULL,NULL,NULL
+1082646,2017,Delhi,5/14/2017,Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,Royal Challengers Bangalore,Feroz Shah Kotla,NULL,NULL,NULL
+1082647,2017,Mumbai,5/16/2017,Mumbai Indians,Rising Pune Supergiant,Mumbai Indians,Rising Pune Supergiant,Wankhede Stadium,NULL,NULL,NULL
+1082648,2017,Bangalore,5/17/2017,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,Kolkata Knight Riders,M Chinnaswamy Stadium,NULL,NULL,NULL
+1082649,2017,Bangalore,5/19/2017,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,M Chinnaswamy Stadium,NULL,NULL,NULL
+1082650,2017,Hyderabad,5/21/2017,Mumbai Indians,Rising Pune Supergiant,Mumbai Indians,Mumbai Indians,"Rajiv Gandhi International Stadium, Uppal",NULL,NULL,NULL
+1136561,2018,Mumbai,4/7/2018,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,Chennai Super Kings,Wankhede Stadium,NULL,NULL,NULL
+1136562,2018,Chandigarh,4/8/2018,Delhi Daredevils,Kings XI Punjab,Kings XI Punjab,Kings XI Punjab,Punjab Cricket Association IS Bindra Stadium,NULL,NULL,NULL
+1136563,2018,Kolkata,4/8/2018,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,Kolkata Knight Riders,Eden Gardens,NULL,NULL,NULL
+1136564,2018,Hyderabad,4/9/2018,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,Sunrisers Hyderabad,Rajiv Gandhi International Stadium,NULL,NULL,NULL
+1136565,2018,Chennai,4/10/2018,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,Chennai Super Kings,MA Chidambaram Stadium,NULL,NULL,NULL
+1136566,2018,Jaipur,4/11/2018,Rajasthan Royals,Delhi Daredevils,Delhi Daredevils,Rajasthan Royals,Sawai Mansingh Stadium,NULL,NULL,NULL
+1136567,2018,Hyderabad,4/12/2018,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,Sunrisers Hyderabad,Rajiv Gandhi International Stadium,NULL,NULL,NULL
+1136568,2018,Bengaluru,4/13/2018,Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,Royal Challengers Bangalore,M.Chinnaswamy Stadium,NULL,NULL,NULL
+1136569,2018,Mumbai,4/14/2018,Mumbai Indians,Delhi Daredevils,Delhi Daredevils,Delhi Daredevils,Wankhede Stadium,NULL,NULL,NULL
+1136570,2018,Kolkata,4/14/2018,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,Sunrisers Hyderabad,Eden Gardens,NULL,NULL,NULL
+1136571,2018,Bengaluru,4/15/2018,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,Rajasthan Royals,M.Chinnaswamy Stadium,NULL,NULL,NULL
+1136572,2018,Chandigarh,4/15/2018,Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,Kings XI Punjab,Punjab Cricket Association IS Bindra Stadium,NULL,NULL,NULL
+1136573,2018,Kolkata,4/16/2018,Kolkata Knight Riders,Delhi Daredevils,Delhi Daredevils,Kolkata Knight Riders,Eden Gardens,NULL,NULL,NULL
+1136574,2018,Mumbai,4/17/2018,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,Mumbai Indians,Wankhede Stadium,NULL,NULL,NULL
+1136575,2018,Jaipur,4/18/2018,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,Kolkata Knight Riders,Sawai Mansingh Stadium,NULL,NULL,NULL
+1136576,2018,Chandigarh,4/19/2018,Kings XI Punjab,Sunrisers Hyderabad,Kings XI Punjab,Kings XI Punjab,Punjab Cricket Association IS Bindra Stadium,NULL,NULL,NULL
+1136577,2018,Pune,4/20/2018,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,Chennai Super Kings,Maharashtra Cricket Association Stadium,NULL,NULL,NULL
+1136578,2018,Kolkata,4/21/2018,Kolkata Knight Riders,Kings XI Punjab,Kings XI Punjab,Kings XI Punjab,Eden Gardens,NULL,NULL,NULL
+1136579,2018,Bengaluru,4/21/2018,Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,Royal Challengers Bangalore,M.Chinnaswamy Stadium,NULL,NULL,NULL
+1136580,2018,Hyderabad,4/22/2018,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,Chennai Super Kings,Rajiv Gandhi International Stadium,NULL,NULL,NULL
+1136581,2018,Jaipur,4/22/2018,Mumbai Indians,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,Sawai Mansingh Stadium,NULL,NULL,NULL
+1136582,2018,Delhi,4/23/2018,Kings XI Punjab,Delhi Daredevils,Delhi Daredevils,Kings XI Punjab,Arun Jaitley Stadium,NULL,NULL,NULL
+1136583,2018,Mumbai,4/24/2018,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,Sunrisers Hyderabad,Wankhede Stadium,NULL,NULL,NULL
+1136584,2018,Bengaluru,4/25/2018,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,Chennai Super Kings,M.Chinnaswamy Stadium,NULL,NULL,NULL
+1136585,2018,Hyderabad,4/26/2018,Sunrisers Hyderabad,Kings XI Punjab,Kings XI Punjab,Sunrisers Hyderabad,Rajiv Gandhi International Stadium,NULL,NULL,NULL
+1136586,2018,Delhi,4/27/2018,Delhi Daredevils,Kolkata Knight Riders,Kolkata Knight Riders,Delhi Daredevils,Arun Jaitley Stadium,NULL,NULL,NULL
+1136587,2018,Pune,4/28/2018,Chennai Super Kings,Mumbai Indians,Mumbai Indians,Mumbai Indians,Maharashtra Cricket Association Stadium,NULL,NULL,NULL
+1136588,2018,Jaipur,4/29/2018,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,Sawai Mansingh Stadium,NULL,NULL,NULL
+1136589,2018,Bengaluru,4/29/2018,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,Kolkata Knight Riders,M.Chinnaswamy Stadium,NULL,NULL,NULL
+1136590,2018,Pune,4/30/2018,Chennai Super Kings,Delhi Daredevils,Delhi Daredevils,Chennai Super Kings,Maharashtra Cricket Association Stadium,NULL,NULL,NULL
+1136591,2018,Bengaluru,5/1/2018,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,Royal Challengers Bangalore,M.Chinnaswamy Stadium,NULL,NULL,NULL
+1136592,2018,Delhi,5/2/2018,Delhi Daredevils,Rajasthan Royals,Rajasthan Royals,Delhi Daredevils,Arun Jaitley Stadium,NULL,NULL,NULL
+1136593,2018,Kolkata,5/3/2018,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,Kolkata Knight Riders,Eden Gardens,NULL,NULL,NULL
+1136594,2018,Indore,5/4/2018,Kings XI Punjab,Mumbai Indians,Mumbai Indians,Mumbai Indians,Holkar Cricket Stadium,NULL,NULL,NULL
+1136595,2018,Pune,5/5/2018,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,Chennai Super Kings,Maharashtra Cricket Association Stadium,NULL,NULL,NULL
+1136596,2018,Hyderabad,5/5/2018,Delhi Daredevils,Sunrisers Hyderabad,Delhi Daredevils,Sunrisers Hyderabad,Rajiv Gandhi International Stadium,NULL,NULL,NULL
+1136597,2018,Mumbai,5/6/2018,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,Mumbai Indians,Wankhede Stadium,NULL,NULL,NULL
+1136598,2018,Indore,5/6/2018,Rajasthan Royals,Kings XI Punjab,Kings XI Punjab,Kings XI Punjab,Holkar Cricket Stadium,NULL,NULL,NULL
+1136599,2018,Hyderabad,5/7/2018,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,Sunrisers Hyderabad,Rajiv Gandhi International Stadium,NULL,NULL,NULL
+1136600,2018,Jaipur,5/8/2018,Rajasthan Royals,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,Sawai Mansingh Stadium,NULL,NULL,NULL
+1136601,2018,Kolkata,5/9/2018,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,Mumbai Indians,Eden Gardens,NULL,NULL,NULL
+1136602,2018,Delhi,5/10/2018,Delhi Daredevils,Sunrisers Hyderabad,Delhi Daredevils,Sunrisers Hyderabad,Arun Jaitley Stadium,NULL,NULL,NULL
+1136603,2018,Jaipur,5/11/2018,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,Sawai Mansingh Stadium,NULL,NULL,NULL
+1136604,2018,Indore,5/12/2018,Kolkata Knight Riders,Kings XI Punjab,Kings XI Punjab,Kolkata Knight Riders,Holkar Cricket Stadium,NULL,NULL,NULL
+1136605,2018,Delhi,5/12/2018,Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,Royal Challengers Bangalore,Arun Jaitley Stadium,NULL,NULL,NULL
+1136606,2018,Pune,5/13/2018,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,Chennai Super Kings,Maharashtra Cricket Association Stadium,NULL,NULL,NULL
+1136607,2018,Mumbai,5/13/2018,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,Rajasthan Royals,Wankhede Stadium,NULL,NULL,NULL
+1136608,2018,Indore,5/14/2018,Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,Royal Challengers Bangalore,Holkar Cricket Stadium,NULL,NULL,NULL
+1136609,2018,Kolkata,5/15/2018,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,Kolkata Knight Riders,Eden Gardens,NULL,NULL,NULL
+1136610,2018,Mumbai,5/16/2018,Mumbai Indians,Kings XI Punjab,Kings XI Punjab,Mumbai Indians,Wankhede Stadium,NULL,NULL,NULL
+1136611,2018,Bengaluru,5/17/2018,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,Royal Challengers Bangalore,M.Chinnaswamy Stadium,NULL,NULL,NULL
+1136612,2018,Delhi,5/18/2018,Delhi Daredevils,Chennai Super Kings,Chennai Super Kings,Delhi Daredevils,Arun Jaitley Stadium,NULL,NULL,NULL
+1136613,2018,Jaipur,5/19/2018,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,Sawai Mansingh Stadium,NULL,NULL,NULL
+1136614,2018,Hyderabad,5/19/2018,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,Rajiv Gandhi International Stadium,NULL,NULL,NULL
+1136615,2018,Delhi,5/20/2018,Delhi Daredevils,Mumbai Indians,Delhi Daredevils,Delhi Daredevils,Arun Jaitley Stadium,NULL,NULL,NULL
+1136616,2018,Pune,5/20/2018,Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,Chennai Super Kings,Maharashtra Cricket Association Stadium,NULL,NULL,NULL
+1136617,2018,Mumbai,5/22/2018,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,Chennai Super Kings,Wankhede Stadium,NULL,NULL,NULL
+1136618,2018,Kolkata,5/23/2018,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,Kolkata Knight Riders,Eden Gardens,NULL,NULL,NULL
+1136619,2018,Kolkata,5/25/2018,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,Sunrisers Hyderabad,Eden Gardens,NULL,NULL,NULL
+1136620,2018,Mumbai,5/27/2018,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,Chennai Super Kings,Wankhede Stadium,NULL,NULL,NULL
+1175356,2019,Chennai,3/23/2019,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,Chennai Super Kings,MA Chidambaram Stadium,NULL,NULL,NULL
+1175357,2019,Kolkata,3/24/2019,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,Kolkata Knight Riders,Eden Gardens,NULL,NULL,NULL
+1175358,2019,Mumbai,3/24/2019,Delhi Capitals,Mumbai Indians,Mumbai Indians,Delhi Capitals,Wankhede Stadium,NULL,NULL,NULL
+1175359,2019,Jaipur,3/25/2019,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,Kings XI Punjab,Sawai Mansingh Stadium,NULL,NULL,NULL
+1175360,2019,Delhi,3/26/2019,Delhi Capitals,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,Arun Jaitley Stadium,NULL,NULL,NULL
+1175361,2019,Kolkata,3/27/2019,Kolkata Knight Riders,Kings XI Punjab,Kings XI Punjab,Kolkata Knight Riders,Eden Gardens,NULL,NULL,NULL
+1175362,2019,Bengaluru,3/28/2019,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,Mumbai Indians,M.Chinnaswamy Stadium,NULL,NULL,NULL
+1175363,2019,Hyderabad,3/29/2019,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,Rajiv Gandhi International Stadium,NULL,NULL,NULL
+1175364,2019,Chandigarh,3/30/2019,Mumbai Indians,Kings XI Punjab,Kings XI Punjab,Kings XI Punjab,Punjab Cricket Association IS Bindra Stadium,NULL,NULL,NULL
+1175365,2019,Delhi,3/30/2019,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,Delhi Capitals,Arun Jaitley Stadium,NULL,NULL,NULL
+1175366,2019,Hyderabad,3/31/2019,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,Sunrisers Hyderabad,Rajiv Gandhi International Stadium,NULL,NULL,NULL
+1175367,2019,Chennai,3/31/2019,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,Chennai Super Kings,MA Chidambaram Stadium,NULL,NULL,NULL
+1175368,2019,Chandigarh,4/1/2019,Kings XI Punjab,Delhi Capitals,Delhi Capitals,Kings XI Punjab,Punjab Cricket Association IS Bindra Stadium,NULL,NULL,NULL
+1175369,2019,Jaipur,4/2/2019,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,Rajasthan Royals,Sawai Mansingh Stadium,NULL,NULL,NULL
+1175370,2019,Mumbai,4/3/2019,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,Mumbai Indians,Wankhede Stadium,NULL,NULL,NULL
+1175371,2019,Delhi,4/4/2019,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,Sunrisers Hyderabad,Arun Jaitley Stadium,NULL,NULL,NULL
+1175372,2019,Bengaluru,4/5/2019,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,Kolkata Knight Riders,M.Chinnaswamy Stadium,NULL,NULL,NULL
+1178393,2019,Chennai,4/6/2019,Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,MA Chidambaram Stadium,NULL,NULL,NULL
+1178394,2019,Hyderabad,4/6/2019,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,Mumbai Indians,Rajiv Gandhi International Stadium,NULL,NULL,NULL
+1178395,2019,Bengaluru,4/7/2019,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,Delhi Capitals,M.Chinnaswamy Stadium,NULL,NULL,NULL
+1178396,2019,Jaipur,4/7/2019,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,Kolkata Knight Riders,Sawai Mansingh Stadium,NULL,NULL,NULL
+1178397,2019,Chandigarh,4/8/2019,Sunrisers Hyderabad,Kings XI Punjab,Kings XI Punjab,Kings XI Punjab,Punjab Cricket Association IS Bindra Stadium,NULL,NULL,NULL
+1178398,2019,Chennai,4/9/2019,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,Chennai Super Kings,MA Chidambaram Stadium,NULL,NULL,NULL
+1178399,2019,Mumbai,4/10/2019,Kings XI Punjab,Mumbai Indians,Mumbai Indians,Mumbai Indians,Wankhede Stadium,NULL,NULL,NULL
+1178400,2019,Jaipur,4/11/2019,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,Chennai Super Kings,Sawai Mansingh Stadium,NULL,NULL,NULL
+1178401,2019,Kolkata,4/12/2019,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,Delhi Capitals,Eden Gardens,NULL,NULL,NULL
+1178402,2019,Mumbai,4/13/2019,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,Rajasthan Royals,Wankhede Stadium,NULL,NULL,NULL
+1178403,2019,Chandigarh,4/13/2019,Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,Royal Challengers Bangalore,Punjab Cricket Association IS Bindra Stadium,NULL,NULL,NULL
+1178404,2019,Kolkata,4/14/2019,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,Chennai Super Kings,Eden Gardens,NULL,NULL,NULL
+1178405,2019,Hyderabad,4/14/2019,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,Delhi Capitals,Rajiv Gandhi International Stadium,NULL,NULL,NULL
+1178406,2019,Mumbai,4/15/2019,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,Mumbai Indians,Wankhede Stadium,NULL,NULL,NULL
+1178407,2019,Chandigarh,4/16/2019,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,Kings XI Punjab,Punjab Cricket Association IS Bindra Stadium,NULL,NULL,NULL
+1178408,2019,Hyderabad,4/17/2019,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,Rajiv Gandhi International Stadium,NULL,NULL,NULL
+1178409,2019,Delhi,4/18/2019,Mumbai Indians,Delhi Capitals,Mumbai Indians,Mumbai Indians,Arun Jaitley Stadium,NULL,NULL,NULL
+1178410,2019,Kolkata,4/19/2019,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,Royal Challengers Bangalore,Eden Gardens,NULL,NULL,NULL
+1178411,2019,Jaipur,4/20/2019,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,Rajasthan Royals,Sawai Mansingh Stadium,NULL,NULL,NULL
+1178412,2019,Delhi,4/20/2019,Kings XI Punjab,Delhi Capitals,Delhi Capitals,Delhi Capitals,Arun Jaitley Stadium,NULL,NULL,NULL
+1178413,2019,Hyderabad,4/21/2019,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,Sunrisers Hyderabad,Rajiv Gandhi International Stadium,NULL,NULL,NULL
+1178414,2019,Bengaluru,4/21/2019,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,Royal Challengers Bangalore,M.Chinnaswamy Stadium,NULL,NULL,NULL
+1178415,2019,Jaipur,4/22/2019,Rajasthan Royals,Delhi Capitals,Delhi Capitals,Delhi Capitals,Sawai Mansingh Stadium,NULL,NULL,NULL
+1178416,2019,Chennai,4/23/2019,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,Chennai Super Kings,MA Chidambaram Stadium,NULL,NULL,NULL
+1178417,2019,Bengaluru,4/24/2019,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,Royal Challengers Bangalore,M.Chinnaswamy Stadium,NULL,NULL,NULL
+1178418,2019,Kolkata,4/25/2019,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,Rajasthan Royals,Eden Gardens,NULL,NULL,NULL
+1178419,2019,Chennai,4/26/2019,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,Mumbai Indians,MA Chidambaram Stadium,NULL,NULL,NULL
+1178420,2019,Jaipur,4/27/2019,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,Rajasthan Royals,Sawai Mansingh Stadium,NULL,NULL,NULL
+1178421,2019,Delhi,4/28/2019,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,Arun Jaitley Stadium,NULL,NULL,NULL
+1178422,2019,Kolkata,4/28/2019,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,Kolkata Knight Riders,Eden Gardens,NULL,NULL,NULL
+1178423,2019,Hyderabad,4/29/2019,Sunrisers Hyderabad,Kings XI Punjab,Kings XI Punjab,Sunrisers Hyderabad,Rajiv Gandhi International Stadium,NULL,NULL,NULL
+1178424,2019,Bengaluru,4/30/2019,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,NaN,M.Chinnaswamy Stadium,NULL,NULL,NULL
+1178425,2019,Chennai,5/1/2019,Chennai Super Kings,Delhi Capitals,Delhi Capitals,Chennai Super Kings,MA Chidambaram Stadium,NULL,NULL,NULL
+1178426,2019,Mumbai,5/2/2019,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,Wankhede Stadium,NULL,NULL,NULL
+1178427,2019,Chandigarh,5/3/2019,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,Kolkata Knight Riders,Punjab Cricket Association IS Bindra Stadium,NULL,NULL,NULL
+1178428,2019,Delhi,5/4/2019,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,Delhi Capitals,Arun Jaitley Stadium,NULL,NULL,NULL
+1178429,2019,Bengaluru,5/4/2019,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,Royal Challengers Bangalore,M.Chinnaswamy Stadium,NULL,NULL,NULL
+1178430,2019,Chandigarh,5/5/2019,Chennai Super Kings,Kings XI Punjab,Kings XI Punjab,Kings XI Punjab,Punjab Cricket Association IS Bindra Stadium,NULL,NULL,NULL
+1178431,2019,Mumbai,5/5/2019,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,Mumbai Indians,Wankhede Stadium,NULL,NULL,NULL
+1181764,2019,Chennai,5/7/2019,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,Mumbai Indians,MA Chidambaram Stadium,NULL,NULL,NULL
+1181766,2019,Visakhapatnam,5/8/2019,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,Delhi Capitals,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,NULL,NULL,NULL
+1181767,2019,Visakhapatnam,5/10/2019,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,Chennai Super Kings,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,NULL,NULL,NULL
+1181768,2019,Hyderabad,5/12/2019,Mumbai Indians,Chennai Super Kings,Mumbai Indians,Mumbai Indians,Rajiv Gandhi International Stadium,NULL,NULL,NULL
+1216492,2020/21,Abu Dhabi,9/19/2020,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,Chennai Super Kings,Sheikh Zayed Stadium,NULL,NULL,NULL
+1216493,2020/21,NaN,9/20/2020,Delhi Capitals,Kings XI Punjab,Kings XI Punjab,Delhi Capitals,Dubai International Cricket Stadium,NULL,NULL,NULL
+1216534,2020/21,NaN,9/21/2020,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,Royal Challengers Bangalore,Dubai International Cricket Stadium,NULL,NULL,NULL
+1216496,2020/21,NaN,9/22/2020,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,Rajasthan Royals,Sharjah Cricket Stadium,NULL,NULL,NULL
+1216508,2020/21,Abu Dhabi,9/23/2020,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,Mumbai Indians,Sheikh Zayed Stadium,NULL,NULL,NULL
+1216510,2020/21,NaN,9/24/2020,Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,Kings XI Punjab,Dubai International Cricket Stadium,NULL,NULL,NULL
+1216539,2020/21,NaN,9/25/2020,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,Delhi Capitals,Dubai International Cricket Stadium,NULL,NULL,NULL
+1216545,2020/21,Abu Dhabi,9/26/2020,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,Sheikh Zayed Stadium,NULL,NULL,NULL
+1216527,2020/21,NaN,9/27/2020,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,Rajasthan Royals,Sharjah Cricket Stadium,NULL,NULL,NULL
+1216547,2020/21,NaN,9/28/2020,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,Royal Challengers Bangalore,Dubai International Cricket Stadium,NULL,NULL,NULL
+1216532,2020/21,Abu Dhabi,9/29/2020,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,Sunrisers Hyderabad,Sheikh Zayed Stadium,NULL,NULL,NULL
+1216504,2020/21,NaN,9/30/2020,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,Kolkata Knight Riders,Dubai International Cricket Stadium,NULL,NULL,NULL
+1216503,2020/21,Abu Dhabi,10/1/2020,Mumbai Indians,Kings XI Punjab,Kings XI Punjab,Mumbai Indians,Sheikh Zayed Stadium,NULL,NULL,NULL
+1216516,2020/21,NaN,10/2/2020,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,Dubai International Cricket Stadium,NULL,NULL,NULL
+1216514,2020/21,Abu Dhabi,10/3/2020,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,Sheikh Zayed Stadium,NULL,NULL,NULL
+1216515,2020/21,NaN,10/3/2020,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,Delhi Capitals,Sharjah Cricket Stadium,NULL,NULL,NULL
+1216513,2020/21,NaN,10/4/2020,Kings XI Punjab,Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,Dubai International Cricket Stadium,NULL,NULL,NULL
+1216538,2020/21,NaN,10/4/2020,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,Sharjah Cricket Stadium,NULL,NULL,NULL
+1216519,2020/21,NaN,10/5/2020,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,Delhi Capitals,Dubai International Cricket Stadium,NULL,NULL,NULL
+1216511,2020/21,Abu Dhabi,10/6/2020,Mumbai Indians,Rajasthan Royals,Mumbai Indians,Mumbai Indians,Sheikh Zayed Stadium,NULL,NULL,NULL
+1216501,2020/21,Abu Dhabi,10/7/2020,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,Sheikh Zayed Stadium,NULL,NULL,NULL
+1216542,2020/21,NaN,10/8/2020,Sunrisers Hyderabad,Kings XI Punjab,Sunrisers Hyderabad,Sunrisers Hyderabad,Dubai International Cricket Stadium,NULL,NULL,NULL
+1216500,2020/21,NaN,10/9/2020,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,Delhi Capitals,Sharjah Cricket Stadium,NULL,NULL,NULL
+1216523,2020/21,Abu Dhabi,10/10/2020,Kolkata Knight Riders,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,Sheikh Zayed Stadium,NULL,NULL,NULL
+1216525,2020/21,NaN,10/10/2020,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,Dubai International Cricket Stadium,NULL,NULL,NULL
+1216507,2020/21,NaN,10/11/2020,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,Dubai International Cricket Stadium,NULL,NULL,NULL
+1216529,2020/21,Abu Dhabi,10/11/2020,Delhi Capitals,Mumbai Indians,Delhi Capitals,Mumbai Indians,Sheikh Zayed Stadium,NULL,NULL,NULL
+1216540,2020/21,NaN,10/12/2020,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,Sharjah Cricket Stadium,NULL,NULL,NULL
+1216528,2020/21,NaN,10/13/2020,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,Dubai International Cricket Stadium,NULL,NULL,NULL
+1216543,2020/21,NaN,10/14/2020,Delhi Capitals,Rajasthan Royals,Delhi Capitals,Delhi Capitals,Dubai International Cricket Stadium,NULL,NULL,NULL
+1216531,2020/21,NaN,10/15/2020,Royal Challengers Bangalore,Kings XI Punjab,Royal Challengers Bangalore,Kings XI Punjab,Sharjah Cricket Stadium,NULL,NULL,NULL
+1216526,2020/21,Abu Dhabi,10/16/2020,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,Sheikh Zayed Stadium,NULL,NULL,NULL
+1216509,2020/21,NaN,10/17/2020,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,Delhi Capitals,Sharjah Cricket Stadium,NULL,NULL,NULL
+1216522,2020/21,NaN,10/17/2020,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,Dubai International Cricket Stadium,NULL,NULL,NULL
+1216512,2020/21,Abu Dhabi,10/18/2020,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,Kolkata Knight Riders,Sheikh Zayed Stadium,NULL,NULL,NULL
+1216517,2020/21,NaN,10/18/2020,Mumbai Indians,Kings XI Punjab,Mumbai Indians,Kings XI Punjab,Dubai International Cricket Stadium,NULL,NULL,NULL
+1216533,2020/21,Abu Dhabi,10/19/2020,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,Sheikh Zayed Stadium,NULL,NULL,NULL
+1216546,2020/21,NaN,10/20/2020,Delhi Capitals,Kings XI Punjab,Delhi Capitals,Kings XI Punjab,Dubai International Cricket Stadium,NULL,NULL,NULL
+1216494,2020/21,Abu Dhabi,10/21/2020,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,Sheikh Zayed Stadium,NULL,NULL,NULL
+1216518,2020/21,NaN,10/22/2020,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,Sunrisers Hyderabad,Dubai International Cricket Stadium,NULL,NULL,NULL
+1216521,2020/21,NaN,10/23/2020,Chennai Super Kings,Mumbai Indians,Mumbai Indians,Mumbai Indians,Sharjah Cricket Stadium,NULL,NULL,NULL
+1216497,2020/21,Abu Dhabi,10/24/2020,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,Kolkata Knight Riders,Sheikh Zayed Stadium,NULL,NULL,NULL
+1216498,2020/21,NaN,10/24/2020,Kings XI Punjab,Sunrisers Hyderabad,Sunrisers Hyderabad,Kings XI Punjab,Dubai International Cricket Stadium,NULL,NULL,NULL
+1216541,2020/21,Abu Dhabi,10/25/2020,Mumbai Indians,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,Sheikh Zayed Stadium,NULL,NULL,NULL
+1216544,2020/21,NaN,10/25/2020,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,Dubai International Cricket Stadium,NULL,NULL,NULL
+1216520,2020/21,NaN,10/26/2020,Kolkata Knight Riders,Kings XI Punjab,Kings XI Punjab,Kings XI Punjab,Sharjah Cricket Stadium,NULL,NULL,NULL
+1216524,2020/21,NaN,10/27/2020,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,Sunrisers Hyderabad,Dubai International Cricket Stadium,NULL,NULL,NULL
+1216499,2020/21,Abu Dhabi,10/28/2020,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,Mumbai Indians,Sheikh Zayed Stadium,NULL,NULL,NULL
+1216536,2020/21,NaN,10/29/2020,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,Chennai Super Kings,Dubai International Cricket Stadium,NULL,NULL,NULL
+1216537,2020/21,Abu Dhabi,10/30/2020,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,Rajasthan Royals,Sheikh Zayed Stadium,NULL,NULL,NULL
+1216502,2020/21,NaN,10/31/2020,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,Sunrisers Hyderabad,Sharjah Cricket Stadium,NULL,NULL,NULL
+1216535,2020/21,NaN,10/31/2020,Delhi Capitals,Mumbai Indians,Mumbai Indians,Mumbai Indians,Dubai International Cricket Stadium,NULL,NULL,NULL
+1216506,2020/21,Abu Dhabi,11/1/2020,Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,Chennai Super Kings,Sheikh Zayed Stadium,NULL,NULL,NULL
+1216530,2020/21,NaN,11/1/2020,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,Kolkata Knight Riders,Dubai International Cricket Stadium,NULL,NULL,NULL
+1216505,2020/21,Abu Dhabi,11/2/2020,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,Delhi Capitals,Sheikh Zayed Stadium,NULL,NULL,NULL
+1216495,2020/21,NaN,11/3/2020,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,Sunrisers Hyderabad,Sharjah Cricket Stadium,NULL,NULL,NULL
+1237177,2020/21,NaN,11/5/2020,Mumbai Indians,Delhi Capitals,Delhi Capitals,Mumbai Indians,Dubai International Cricket Stadium,NULL,NULL,NULL
+1237178,2020/21,Abu Dhabi,11/6/2020,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,Sunrisers Hyderabad,Sheikh Zayed Stadium,NULL,NULL,NULL
+1237180,2020/21,Abu Dhabi,11/8/2020,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,Sheikh Zayed Stadium,NULL,NULL,NULL
+1237181,2020/21,NaN,11/10/2020,Delhi Capitals,Mumbai Indians,Delhi Capitals,Mumbai Indians,Dubai International Cricket Stadium,NULL,NULL,NULL
+1254058,2021,Chennai,4/9/2021,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,Royal Challengers Bangalore,"MA Chidambaram Stadium, Chepauk, Chennai",NULL,NULL,NULL
+1254059,2021,Mumbai,4/10/2021,Chennai Super Kings,Delhi Capitals,Delhi Capitals,Delhi Capitals,"Wankhede Stadium, Mumbai",NULL,NULL,NULL
+1254060,2021,Chennai,4/11/2021,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,Kolkata Knight Riders,"MA Chidambaram Stadium, Chepauk, Chennai",NULL,NULL,NULL
+1254061,2021,Mumbai,4/12/2021,Punjab Kings,Rajasthan Royals,Rajasthan Royals,Punjab Kings,"Wankhede Stadium, Mumbai",NULL,NULL,NULL
+1254062,2021,Chennai,4/13/2021,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,Mumbai Indians,"MA Chidambaram Stadium, Chepauk, Chennai",NULL,NULL,NULL
+1254063,2021,Chennai,4/14/2021,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,Royal Challengers Bangalore,"MA Chidambaram Stadium, Chepauk, Chennai",NULL,NULL,NULL
+1254064,2021,Mumbai,4/15/2021,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,Rajasthan Royals,"Wankhede Stadium, Mumbai",NULL,NULL,NULL
+1254065,2021,Mumbai,4/16/2021,Punjab Kings,Chennai Super Kings,Chennai Super Kings,Chennai Super Kings,"Wankhede Stadium, Mumbai",NULL,NULL,NULL
+1254066,2021,Chennai,4/17/2021,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,"MA Chidambaram Stadium, Chepauk, Chennai",NULL,NULL,NULL
+1254067,2021,Chennai,4/18/2021,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,"MA Chidambaram Stadium, Chepauk, Chennai",NULL,NULL,NULL
+1254068,2021,Mumbai,4/18/2021,Punjab Kings,Delhi Capitals,Delhi Capitals,Delhi Capitals,"Wankhede Stadium, Mumbai",NULL,NULL,NULL
+1254069,2021,Mumbai,4/19/2021,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,Chennai Super Kings,"Wankhede Stadium, Mumbai",NULL,NULL,NULL
+1254070,2021,Chennai,4/20/2021,Mumbai Indians,Delhi Capitals,Mumbai Indians,Delhi Capitals,"MA Chidambaram Stadium, Chepauk, Chennai",NULL,NULL,NULL
+1254071,2021,Chennai,4/21/2021,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,"MA Chidambaram Stadium, Chepauk, Chennai",NULL,NULL,NULL
+1254072,2021,Mumbai,4/21/2021,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,Chennai Super Kings,"Wankhede Stadium, Mumbai",NULL,NULL,NULL
+1254073,2021,Mumbai,4/22/2021,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,Royal Challengers Bangalore,"Wankhede Stadium, Mumbai",NULL,NULL,NULL
+1254074,2021,Chennai,4/23/2021,Mumbai Indians,Punjab Kings,Punjab Kings,Punjab Kings,"MA Chidambaram Stadium, Chepauk, Chennai",NULL,NULL,NULL
+1254075,2021,Mumbai,4/24/2021,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,Rajasthan Royals,"Wankhede Stadium, Mumbai",NULL,NULL,NULL
+1254076,2021,Mumbai,4/25/2021,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,"Wankhede Stadium, Mumbai",NULL,NULL,NULL
+1254077,2021,Chennai,4/25/2021,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,"MA Chidambaram Stadium, Chepauk, Chennai",NULL,NULL,NULL
+1254078,2021,Ahmedabad,4/26/2021,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,Kolkata Knight Riders,"Narendra Modi Stadium, Ahmedabad",NULL,NULL,NULL
+1254079,2021,Ahmedabad,4/27/2021,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,Royal Challengers Bangalore,"Narendra Modi Stadium, Ahmedabad",NULL,NULL,NULL
+1254080,2021,Delhi,4/28/2021,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,"Arun Jaitley Stadium, Delhi",NULL,NULL,NULL
+1254081,2021,Delhi,4/29/2021,Rajasthan Royals,Mumbai Indians,Mumbai Indians,Mumbai Indians,"Arun Jaitley Stadium, Delhi",NULL,NULL,NULL
+1254082,2021,Ahmedabad,4/29/2021,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,Delhi Capitals,"Narendra Modi Stadium, Ahmedabad",NULL,NULL,NULL
+1254083,2021,Ahmedabad,4/30/2021,Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,Punjab Kings,"Narendra Modi Stadium, Ahmedabad",NULL,NULL,NULL
+1254084,2021,Delhi,5/1/2021,Chennai Super Kings,Mumbai Indians,Mumbai Indians,Mumbai Indians,"Arun Jaitley Stadium, Delhi",NULL,NULL,NULL
+1254085,2021,Delhi,5/2/2021,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,Rajasthan Royals,"Arun Jaitley Stadium, Delhi",NULL,NULL,NULL
+1254086,2021,Ahmedabad,5/2/2021,Punjab Kings,Delhi Capitals,Delhi Capitals,Delhi Capitals,"Narendra Modi Stadium, Ahmedabad",NULL,NULL,NULL
+1254104,2021,Dubai,9/19/2021,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,Dubai International Cricket Stadium,NULL,NULL,NULL
+1254087,2021,Abu Dhabi,9/20/2021,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,"Zayed Cricket Stadium, Abu Dhabi",NULL,NULL,NULL
+1254111,2021,Dubai,9/21/2021,Rajasthan Royals,Punjab Kings,Punjab Kings,Rajasthan Royals,Dubai International Cricket Stadium,NULL,NULL,NULL
+1254105,2021,Dubai,9/22/2021,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,Dubai International Cricket Stadium,NULL,NULL,NULL
+1254096,2021,Abu Dhabi,9/23/2021,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,Kolkata Knight Riders,"Zayed Cricket Stadium, Abu Dhabi",NULL,NULL,NULL
+1254113,2021,Sharjah,9/24/2021,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,Chennai Super Kings,Sharjah Cricket Stadium,NULL,NULL,NULL
+1254097,2021,Abu Dhabi,9/25/2021,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,Delhi Capitals,"Zayed Cricket Stadium, Abu Dhabi",NULL,NULL,NULL
+1254107,2021,Sharjah,9/25/2021,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,Punjab Kings,Sharjah Cricket Stadium,NULL,NULL,NULL
+1254098,2021,Abu Dhabi,9/26/2021,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,"Zayed Cricket Stadium, Abu Dhabi",NULL,NULL,NULL
+1254108,2021,Dubai,9/26/2021,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,Royal Challengers Bangalore,Dubai International Cricket Stadium,NULL,NULL,NULL
+1254100,2021,Dubai,9/27/2021,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,Dubai International Cricket Stadium,NULL,NULL,NULL
+1254092,2021,Sharjah,9/28/2021,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,Kolkata Knight Riders,Sharjah Cricket Stadium,NULL,NULL,NULL
+1254099,2021,Abu Dhabi,9/28/2021,Punjab Kings,Mumbai Indians,Mumbai Indians,Mumbai Indians,"Zayed Cricket Stadium, Abu Dhabi",NULL,NULL,NULL
+1254103,2021,Dubai,9/29/2021,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,Royal Challengers Bangalore,Dubai International Cricket Stadium,NULL,NULL,NULL
+1254091,2021,Sharjah,9/30/2021,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,Chennai Super Kings,Sharjah Cricket Stadium,NULL,NULL,NULL
+1254102,2021,Dubai,10/1/2021,Kolkata Knight Riders,Punjab Kings,Punjab Kings,Punjab Kings,Dubai International Cricket Stadium,NULL,NULL,NULL
+1254089,2021,Abu Dhabi,10/2/2021,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,Rajasthan Royals,"Zayed Cricket Stadium, Abu Dhabi",NULL,NULL,NULL
+1254112,2021,Sharjah,10/2/2021,Mumbai Indians,Delhi Capitals,Delhi Capitals,Delhi Capitals,Sharjah Cricket Stadium,NULL,NULL,NULL
+1254090,2021,Sharjah,10/3/2021,Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,Sharjah Cricket Stadium,NULL,NULL,NULL
+1254109,2021,Dubai,10/3/2021,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,Dubai International Cricket Stadium,NULL,NULL,NULL
+1254110,2021,Dubai,10/4/2021,Chennai Super Kings,Delhi Capitals,Delhi Capitals,Delhi Capitals,Dubai International Cricket Stadium,NULL,NULL,NULL
+1254093,2021,Sharjah,10/5/2021,Rajasthan Royals,Mumbai Indians,Mumbai Indians,Mumbai Indians,Sharjah Cricket Stadium,NULL,NULL,NULL
+1254095,2021,Abu Dhabi,10/6/2021,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,Sunrisers Hyderabad,"Zayed Cricket Stadium, Abu Dhabi",NULL,NULL,NULL
+1254094,2021,Dubai,10/7/2021,Chennai Super Kings,Punjab Kings,Punjab Kings,Punjab Kings,Dubai International Cricket Stadium,NULL,NULL,NULL
+1254106,2021,Sharjah,10/7/2021,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,Kolkata Knight Riders,Sharjah Cricket Stadium,NULL,NULL,NULL
+1254088,2021,Abu Dhabi,10/8/2021,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,"Zayed Cricket Stadium, Abu Dhabi",NULL,NULL,NULL
+1254101,2021,Dubai,10/8/2021,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,Royal Challengers Bangalore,Dubai International Cricket Stadium,NULL,NULL,NULL
+1254114,2021,Dubai,10/10/2021,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,Chennai Super Kings,Dubai International Cricket Stadium,NULL,NULL,NULL
+1254115,2021,Sharjah,10/11/2021,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,Sharjah Cricket Stadium,NULL,NULL,NULL
+1254116,2021,Sharjah,10/13/2021,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,Kolkata Knight Riders,Sharjah Cricket Stadium,NULL,NULL,NULL
+1254117,2021,Dubai,10/15/2021,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,Chennai Super Kings,Dubai International Cricket Stadium,NULL,NULL,NULL
+1304047,2022,Mumbai,3/26/2022,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,Kolkata Knight Riders,"Wankhede Stadium, Mumbai",NULL,NULL,NULL
+1304048,2022,Mumbai,3/27/2022,Mumbai Indians,Delhi Capitals,Delhi Capitals,Delhi Capitals,"Brabourne Stadium, Mumbai",NULL,NULL,NULL
+1304049,2022,Mumbai,3/27/2022,Royal Challengers Bangalore,Punjab Kings,Punjab Kings,Punjab Kings,"Dr DY Patil Sports Academy, Mumbai",NULL,NULL,NULL
+1304050,2022,Mumbai,3/28/2022,Lucknow Super Giants,Gujarat Titans,Gujarat Titans,Gujarat Titans,"Wankhede Stadium, Mumbai",NULL,NULL,NULL
+1304051,2022,Pune,3/29/2022,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,Rajasthan Royals,"Maharashtra Cricket Association Stadium, Pune",NULL,NULL,NULL
+1304052,2022,Mumbai,3/30/2022,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,Royal Challengers Bangalore,"Dr DY Patil Sports Academy, Mumbai",NULL,NULL,NULL
+1304053,2022,Mumbai,3/31/2022,Chennai Super Kings,Lucknow Super Giants,Lucknow Super Giants,Lucknow Super Giants,"Brabourne Stadium, Mumbai",NULL,NULL,NULL
+1304054,2022,Mumbai,4/1/2022,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,Kolkata Knight Riders,"Wankhede Stadium, Mumbai",NULL,NULL,NULL
+1304055,2022,Mumbai,4/2/2022,Rajasthan Royals,Mumbai Indians,Mumbai Indians,Rajasthan Royals,"Dr DY Patil Sports Academy, Mumbai",NULL,NULL,NULL
+1304056,2022,Pune,4/2/2022,Gujarat Titans,Delhi Capitals,Delhi Capitals,Gujarat Titans,"Maharashtra Cricket Association Stadium, Pune",NULL,NULL,NULL
+1304057,2022,Mumbai,4/3/2022,Punjab Kings,Chennai Super Kings,Chennai Super Kings,Punjab Kings,"Brabourne Stadium, Mumbai",NULL,NULL,NULL
+1304058,2022,Mumbai,4/4/2022,Lucknow Super Giants,Sunrisers Hyderabad,Sunrisers Hyderabad,Lucknow Super Giants,"Dr DY Patil Sports Academy, Mumbai",NULL,NULL,NULL
+1304059,2022,Mumbai,4/5/2022,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,Royal Challengers Bangalore,"Wankhede Stadium, Mumbai",NULL,NULL,NULL
+1304060,2022,Pune,4/6/2022,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,Kolkata Knight Riders,"Maharashtra Cricket Association Stadium, Pune",NULL,NULL,NULL
+1304061,2022,Mumbai,4/7/2022,Delhi Capitals,Lucknow Super Giants,Lucknow Super Giants,Lucknow Super Giants,"Dr DY Patil Sports Academy, Mumbai",NULL,NULL,NULL
+1304062,2022,Mumbai,4/8/2022,Punjab Kings,Gujarat Titans,Gujarat Titans,Gujarat Titans,"Brabourne Stadium, Mumbai",NULL,NULL,NULL
+1304063,2022,Mumbai,4/9/2022,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,Sunrisers Hyderabad,"Dr DY Patil Sports Academy, Mumbai",NULL,NULL,NULL
+1304064,2022,Pune,4/9/2022,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,Royal Challengers Bangalore,"Maharashtra Cricket Association Stadium, Pune",NULL,NULL,NULL
+1304065,2022,Mumbai,4/10/2022,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,Delhi Capitals,"Brabourne Stadium, Mumbai",NULL,NULL,NULL
+1304066,2022,Mumbai,4/10/2022,Rajasthan Royals,Lucknow Super Giants,Lucknow Super Giants,Rajasthan Royals,"Wankhede Stadium, Mumbai",NULL,NULL,NULL
+1304067,2022,Mumbai,4/11/2022,Gujarat Titans,Sunrisers Hyderabad,Sunrisers Hyderabad,Sunrisers Hyderabad,"Dr DY Patil Sports Academy, Mumbai",NULL,NULL,NULL
+1304068,2022,Mumbai,4/12/2022,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,Chennai Super Kings,"Dr DY Patil Sports Academy, Mumbai",NULL,NULL,NULL
+1304069,2022,Pune,4/13/2022,Punjab Kings,Mumbai Indians,Mumbai Indians,Punjab Kings,"Maharashtra Cricket Association Stadium, Pune",NULL,NULL,NULL
+1304070,2022,Mumbai,4/14/2022,Gujarat Titans,Rajasthan Royals,Rajasthan Royals,Gujarat Titans,"Dr DY Patil Sports Academy, Mumbai",NULL,NULL,NULL
+1304071,2022,Mumbai,4/15/2022,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,Sunrisers Hyderabad,"Brabourne Stadium, Mumbai",NULL,NULL,NULL
+1304072,2022,Mumbai,4/16/2022,Lucknow Super Giants,Mumbai Indians,Mumbai Indians,Lucknow Super Giants,"Brabourne Stadium, Mumbai",NULL,NULL,NULL
+1304073,2022,Mumbai,4/16/2022,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,Royal Challengers Bangalore,"Wankhede Stadium, Mumbai",NULL,NULL,NULL
+1304074,2022,Mumbai,4/17/2022,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,Sunrisers Hyderabad,"Dr DY Patil Sports Academy, Mumbai",NULL,NULL,NULL
+1304075,2022,Pune,4/17/2022,Chennai Super Kings,Gujarat Titans,Gujarat Titans,Gujarat Titans,"Maharashtra Cricket Association Stadium, Pune",NULL,NULL,NULL
+1304076,2022,Mumbai,4/18/2022,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,Rajasthan Royals,"Brabourne Stadium, Mumbai",NULL,NULL,NULL
+1304077,2022,Mumbai,4/19/2022,Royal Challengers Bangalore,Lucknow Super Giants,Lucknow Super Giants,Royal Challengers Bangalore,"Dr DY Patil Sports Academy, Mumbai",NULL,NULL,NULL
+1304078,2022,Mumbai,4/20/2022,Punjab Kings,Delhi Capitals,Delhi Capitals,Delhi Capitals,"Brabourne Stadium, Mumbai",NULL,NULL,NULL
+1304079,2022,Navi Mumbai,4/21/2022,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,Chennai Super Kings,"Dr DY Patil Sports Academy, Mumbai",NULL,NULL,NULL
+1304080,2022,Mumbai,4/22/2022,Rajasthan Royals,Delhi Capitals,Delhi Capitals,Rajasthan Royals,"Wankhede Stadium, Mumbai",NULL,NULL,NULL
+1304081,2022,Navi Mumbai,4/23/2022,Gujarat Titans,Kolkata Knight Riders,Gujarat Titans,Gujarat Titans,"Dr DY Patil Sports Academy, Mumbai",NULL,NULL,NULL
+1304082,2022,Mumbai,4/23/2022,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,Sunrisers Hyderabad,"Brabourne Stadium, Mumbai",NULL,NULL,NULL
+1304083,2022,Mumbai,4/24/2022,Lucknow Super Giants,Mumbai Indians,Mumbai Indians,Lucknow Super Giants,"Wankhede Stadium, Mumbai",NULL,NULL,NULL
+1304084,2022,Mumbai,4/25/2022,Punjab Kings,Chennai Super Kings,Chennai Super Kings,Punjab Kings,"Wankhede Stadium, Mumbai",NULL,NULL,NULL
+1304085,2022,Pune,4/26/2022,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,Rajasthan Royals,"Maharashtra Cricket Association Stadium, Pune",NULL,NULL,NULL
+1304086,2022,Mumbai,4/27/2022,Sunrisers Hyderabad,Gujarat Titans,Gujarat Titans,Gujarat Titans,"Wankhede Stadium, Mumbai",NULL,NULL,NULL
+1304087,2022,Mumbai,4/28/2022,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,Delhi Capitals,"Wankhede Stadium, Mumbai",NULL,NULL,NULL
+1304088,2022,Pune,4/29/2022,Lucknow Super Giants,Punjab Kings,Punjab Kings,Lucknow Super Giants,"Maharashtra Cricket Association Stadium, Pune",NULL,NULL,NULL
+1304089,2022,Mumbai,4/30/2022,Royal Challengers Bangalore,Gujarat Titans,Royal Challengers Bangalore,Gujarat Titans,"Brabourne Stadium, Mumbai",NULL,NULL,NULL
+1304090,2022,Navi Mumbai,4/30/2022,Rajasthan Royals,Mumbai Indians,Mumbai Indians,Mumbai Indians,"Dr DY Patil Sports Academy, Mumbai",NULL,NULL,NULL
+1304091,2022,Mumbai,5/1/2022,Lucknow Super Giants,Delhi Capitals,Lucknow Super Giants,Lucknow Super Giants,"Wankhede Stadium, Mumbai",NULL,NULL,NULL
+1304092,2022,Pune,5/1/2022,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,Chennai Super Kings,"Maharashtra Cricket Association Stadium, Pune",NULL,NULL,NULL
+1304093,2022,Mumbai,5/2/2022,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,Kolkata Knight Riders,"Wankhede Stadium, Mumbai",NULL,NULL,NULL
+1304094,2022,Navi Mumbai,5/3/2022,Gujarat Titans,Punjab Kings,Gujarat Titans,Punjab Kings,"Dr DY Patil Sports Academy, Mumbai",NULL,NULL,NULL
+1304095,2022,Pune,5/4/2022,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,Royal Challengers Bangalore,"Maharashtra Cricket Association Stadium, Pune",NULL,NULL,NULL
+1304096,2022,Mumbai,5/5/2022,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,Delhi Capitals,"Brabourne Stadium, Mumbai",NULL,NULL,NULL
+1304097,2022,Mumbai,5/6/2022,Mumbai Indians,Gujarat Titans,Gujarat Titans,Mumbai Indians,"Brabourne Stadium, Mumbai",NULL,NULL,NULL
+1304098,2022,Mumbai,5/7/2022,Punjab Kings,Rajasthan Royals,Punjab Kings,Rajasthan Royals,"Wankhede Stadium, Mumbai",NULL,NULL,NULL
+1304099,2022,Pune,5/7/2022,Lucknow Super Giants,Kolkata Knight Riders,Kolkata Knight Riders,Lucknow Super Giants,"Maharashtra Cricket Association Stadium, Pune",NULL,NULL,NULL
+1422121,2024,Kolkata,3/23/2024,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,Kolkata Knight Riders,"Eden Gardens, Kolkata",NULL,NULL,NULL
+1304100,2022,Mumbai,5/8/2022,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,"Wankhede Stadium, Mumbai",NULL,NULL,NULL
+1304101,2022,Navi Mumbai,5/8/2022,Chennai Super Kings,Delhi Capitals,Delhi Capitals,Chennai Super Kings,"Dr DY Patil Sports Academy, Mumbai",NULL,NULL,NULL
+1304102,2022,Navi Mumbai,5/9/2022,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,Kolkata Knight Riders,"Dr DY Patil Sports Academy, Mumbai",NULL,NULL,NULL
+1304103,2022,Pune,5/10/2022,Gujarat Titans,Lucknow Super Giants,Gujarat Titans,Gujarat Titans,"Maharashtra Cricket Association Stadium, Pune",NULL,NULL,NULL
+1304104,2022,Navi Mumbai,5/11/2022,Rajasthan Royals,Delhi Capitals,Delhi Capitals,Delhi Capitals,"Dr DY Patil Sports Academy, Mumbai",NULL,NULL,NULL
+1304105,2022,Mumbai,5/12/2022,Chennai Super Kings,Mumbai Indians,Mumbai Indians,Mumbai Indians,"Wankhede Stadium, Mumbai",NULL,NULL,NULL
+1304106,2022,Mumbai,5/13/2022,Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,Punjab Kings,"Brabourne Stadium, Mumbai",NULL,NULL,NULL
+1304107,2022,Pune,5/14/2022,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,"Maharashtra Cricket Association Stadium, Pune",NULL,NULL,NULL
+1304108,2022,Mumbai,5/15/2022,Chennai Super Kings,Gujarat Titans,Chennai Super Kings,Gujarat Titans,"Wankhede Stadium, Mumbai",NULL,NULL,NULL
+1304109,2022,Mumbai,5/15/2022,Rajasthan Royals,Lucknow Super Giants,Rajasthan Royals,Rajasthan Royals,"Brabourne Stadium, Mumbai",NULL,NULL,NULL
+1304110,2022,Navi Mumbai,5/16/2022,Delhi Capitals,Punjab Kings,Punjab Kings,Delhi Capitals,"Dr DY Patil Sports Academy, Mumbai",NULL,NULL,NULL
+1304111,2022,Mumbai,5/17/2022,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,Sunrisers Hyderabad,"Wankhede Stadium, Mumbai",NULL,NULL,NULL
+1304112,2022,Navi Mumbai,5/18/2022,Lucknow Super Giants,Kolkata Knight Riders,Lucknow Super Giants,Lucknow Super Giants,"Dr DY Patil Sports Academy, Mumbai",NULL,NULL,NULL
+1304113,2022,Mumbai,5/19/2022,Gujarat Titans,Royal Challengers Bangalore,Gujarat Titans,Royal Challengers Bangalore,"Wankhede Stadium, Mumbai",NULL,NULL,NULL
+1304114,2022,Mumbai,5/20/2022,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,"Brabourne Stadium, Mumbai",NULL,NULL,NULL
+1304115,2022,Mumbai,5/21/2022,Delhi Capitals,Mumbai Indians,Mumbai Indians,Mumbai Indians,"Wankhede Stadium, Mumbai",NULL,NULL,NULL
+1304116,2022,Mumbai,5/22/2022,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,"Wankhede Stadium, Mumbai",NULL,NULL,NULL
+1312197,2022,Kolkata,5/24/2022,Rajasthan Royals,Gujarat Titans,Gujarat Titans,Gujarat Titans,"Eden Gardens, Kolkata",NULL,NULL,NULL
+1312198,2022,Kolkata,5/25/2022,Royal Challengers Bangalore,Lucknow Super Giants,Lucknow Super Giants,Royal Challengers Bangalore,"Eden Gardens, Kolkata",NULL,NULL,NULL
+1312199,2022,Ahmedabad,5/27/2022,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,Rajasthan Royals,"Narendra Modi Stadium, Ahmedabad",NULL,NULL,NULL
+1312200,2022,Ahmedabad,5/29/2022,Rajasthan Royals,Gujarat Titans,Rajasthan Royals,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",NULL,NULL,NULL
+1359475,2023,Ahmedabad,3/31/2023,Chennai Super Kings,Gujarat Titans,Gujarat Titans,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",NULL,NULL,NULL
+1359476,2023,Chandigarh,4/1/2023,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,Punjab Kings,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",NULL,NULL,NULL
+1359477,2023,Lucknow,4/1/2023,Lucknow Super Giants,Delhi Capitals,Delhi Capitals,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",NULL,NULL,NULL
+1359478,2023,Hyderabad,4/2/2023,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,Rajasthan Royals,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",NULL,NULL,NULL
+1359479,2023,Bengaluru,4/2/2023,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,Royal Challengers Bangalore,"M Chinnaswamy Stadium, Bengaluru",NULL,NULL,NULL
+1359480,2023,Chennai,4/3/2023,Chennai Super Kings,Lucknow Super Giants,Lucknow Super Giants,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",NULL,NULL,NULL
+1359481,2023,Delhi,4/4/2023,Delhi Capitals,Gujarat Titans,Gujarat Titans,Gujarat Titans,"Arun Jaitley Stadium, Delhi",NULL,NULL,NULL
+1359482,2023,Guwahati,4/5/2023,Punjab Kings,Rajasthan Royals,Rajasthan Royals,Punjab Kings,"Barsapara Cricket Stadium, Guwahati",NULL,NULL,NULL
+1359483,2023,Kolkata,4/6/2023,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,Kolkata Knight Riders,"Eden Gardens, Kolkata",NULL,NULL,NULL
+1359484,2023,Lucknow,4/7/2023,Sunrisers Hyderabad,Lucknow Super Giants,Sunrisers Hyderabad,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",NULL,NULL,NULL
+1359485,2023,Guwahati,4/8/2023,Rajasthan Royals,Delhi Capitals,Delhi Capitals,Rajasthan Royals,"Barsapara Cricket Stadium, Guwahati",NULL,NULL,NULL
+1359486,2023,Mumbai,4/8/2023,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,Chennai Super Kings,"Wankhede Stadium, Mumbai",NULL,NULL,NULL
+1359487,2023,Ahmedabad,4/9/2023,Gujarat Titans,Kolkata Knight Riders,Gujarat Titans,Kolkata Knight Riders,"Narendra Modi Stadium, Ahmedabad",NULL,NULL,NULL
+1359488,2023,Hyderabad,4/9/2023,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",NULL,NULL,NULL
+1359489,2023,Bengaluru,4/10/2023,Royal Challengers Bangalore,Lucknow Super Giants,Lucknow Super Giants,Lucknow Super Giants,"M Chinnaswamy Stadium, Bengaluru",NULL,NULL,NULL
+1359490,2023,Delhi,4/11/2023,Delhi Capitals,Mumbai Indians,Mumbai Indians,Mumbai Indians,"Arun Jaitley Stadium, Delhi",NULL,NULL,NULL
+1359491,2023,Chennai,4/12/2023,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,Rajasthan Royals,"MA Chidambaram Stadium, Chepauk, Chennai",NULL,NULL,NULL
+1359492,2023,Chandigarh,4/13/2023,Punjab Kings,Gujarat Titans,Gujarat Titans,Gujarat Titans,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",NULL,NULL,NULL
+1359493,2023,Kolkata,4/14/2023,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,Sunrisers Hyderabad,"Eden Gardens, Kolkata",NULL,NULL,NULL
+1359494,2023,Bengaluru,4/15/2023,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,Royal Challengers Bangalore,"M Chinnaswamy Stadium, Bengaluru",NULL,NULL,NULL
+1359495,2023,Lucknow,4/15/2023,Lucknow Super Giants,Punjab Kings,Punjab Kings,Punjab Kings,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",NULL,NULL,NULL
+1359496,2023,Mumbai,4/16/2023,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,Mumbai Indians,"Wankhede Stadium, Mumbai",NULL,NULL,NULL
+1359497,2023,Ahmedabad,4/16/2023,Gujarat Titans,Rajasthan Royals,Rajasthan Royals,Rajasthan Royals,"Narendra Modi Stadium, Ahmedabad",NULL,NULL,NULL
+1359498,2023,Bengaluru,4/17/2023,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,Chennai Super Kings,"M Chinnaswamy Stadium, Bengaluru",NULL,NULL,NULL
+1359499,2023,Hyderabad,4/18/2023,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,Mumbai Indians,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",NULL,NULL,NULL
+1359500,2023,Jaipur,4/19/2023,Lucknow Super Giants,Rajasthan Royals,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",NULL,NULL,NULL
+1359501,2023,Chandigarh,4/20/2023,Royal Challengers Bangalore,Punjab Kings,Punjab Kings,Royal Challengers Bangalore,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",NULL,NULL,NULL
+1359502,2023,Delhi,4/20/2023,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,Delhi Capitals,"Arun Jaitley Stadium, Delhi",NULL,NULL,NULL
+1359503,2023,Chennai,4/21/2023,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",NULL,NULL,NULL
+1359504,2023,Lucknow,4/22/2023,Gujarat Titans,Lucknow Super Giants,Gujarat Titans,Gujarat Titans,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",NULL,NULL,NULL
+1359505,2023,Mumbai,4/22/2023,Punjab Kings,Mumbai Indians,Mumbai Indians,Punjab Kings,"Wankhede Stadium, Mumbai",NULL,NULL,NULL
+1359506,2023,Bengaluru,4/23/2023,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,Royal Challengers Bangalore,"M Chinnaswamy Stadium, Bengaluru",NULL,NULL,NULL
+1359507,2023,Kolkata,4/23/2023,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,Chennai Super Kings,"Eden Gardens, Kolkata",NULL,NULL,NULL
+1359508,2023,Hyderabad,4/24/2023,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",NULL,NULL,NULL
+1359509,2023,Ahmedabad,4/25/2023,Gujarat Titans,Mumbai Indians,Mumbai Indians,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",NULL,NULL,NULL
+1359510,2023,Bengaluru,4/26/2023,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,Kolkata Knight Riders,"M Chinnaswamy Stadium, Bengaluru",NULL,NULL,NULL
+1359511,2023,Jaipur,4/27/2023,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,"Sawai Mansingh Stadium, Jaipur",NULL,NULL,NULL
+1359512,2023,Chandigarh,4/28/2023,Lucknow Super Giants,Punjab Kings,Punjab Kings,Lucknow Super Giants,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",NULL,NULL,NULL
+1359513,2023,Kolkata,4/29/2023,Kolkata Knight Riders,Gujarat Titans,Gujarat Titans,Gujarat Titans,"Eden Gardens, Kolkata",NULL,NULL,NULL
+1359514,2023,Delhi,4/29/2023,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,"Arun Jaitley Stadium, Delhi",NULL,NULL,NULL
+1359515,2023,Chennai,4/30/2023,Chennai Super Kings,Punjab Kings,Chennai Super Kings,Punjab Kings,"MA Chidambaram Stadium, Chepauk, Chennai",NULL,NULL,NULL
+1359516,2023,Mumbai,4/30/2023,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,Mumbai Indians,"Wankhede Stadium, Mumbai",NULL,NULL,NULL
+1359517,2023,Lucknow,5/1/2023,Royal Challengers Bangalore,Lucknow Super Giants,Royal Challengers Bangalore,Royal Challengers Bangalore,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",NULL,NULL,NULL
+1359518,2023,Ahmedabad,5/2/2023,Delhi Capitals,Gujarat Titans,Delhi Capitals,Delhi Capitals,"Narendra Modi Stadium, Ahmedabad",NULL,NULL,NULL
+1359519,2023,Lucknow,5/3/2023,Lucknow Super Giants,Chennai Super Kings,Chennai Super Kings,NaN,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",NULL,NULL,NULL
+1359520,2023,Chandigarh,5/3/2023,Punjab Kings,Mumbai Indians,Mumbai Indians,Mumbai Indians,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",NULL,NULL,NULL
+1359521,2023,Hyderabad,5/4/2023,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",NULL,NULL,NULL
+1359522,2023,Jaipur,5/5/2023,Rajasthan Royals,Gujarat Titans,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",NULL,NULL,NULL
+1359523,2023,Chennai,5/6/2023,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",NULL,NULL,NULL
+1359524,2023,Delhi,5/6/2023,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,"Arun Jaitley Stadium, Delhi",NULL,NULL,NULL
+1359525,2023,Ahmedabad,5/7/2023,Gujarat Titans,Lucknow Super Giants,Lucknow Super Giants,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",NULL,NULL,NULL
+1359526,2023,Jaipur,5/7/2023,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,"Sawai Mansingh Stadium, Jaipur",NULL,NULL,NULL
+1359527,2023,Kolkata,5/8/2023,Punjab Kings,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,"Eden Gardens, Kolkata",NULL,NULL,NULL
+1359528,2023,Mumbai,5/9/2023,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,Mumbai Indians,"Wankhede Stadium, Mumbai",NULL,NULL,NULL
+1359529,2023,Chennai,5/10/2023,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",NULL,NULL,NULL
+1359530,2023,Kolkata,5/11/2023,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,Rajasthan Royals,"Eden Gardens, Kolkata",NULL,NULL,NULL
+1359531,2023,Mumbai,5/12/2023,Mumbai Indians,Gujarat Titans,Gujarat Titans,Mumbai Indians,"Wankhede Stadium, Mumbai",NULL,NULL,NULL
+1359532,2023,Hyderabad,5/13/2023,Sunrisers Hyderabad,Lucknow Super Giants,Sunrisers Hyderabad,Lucknow Super Giants,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",NULL,NULL,NULL
+1359533,2023,Delhi,5/13/2023,Punjab Kings,Delhi Capitals,Delhi Capitals,Punjab Kings,"Arun Jaitley Stadium, Delhi",NULL,NULL,NULL
+1359534,2023,Jaipur,5/14/2023,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,"Sawai Mansingh Stadium, Jaipur",NULL,NULL,NULL
+1359535,2023,Chennai,5/14/2023,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,"MA Chidambaram Stadium, Chepauk, Chennai",NULL,NULL,NULL
+1359536,2023,Ahmedabad,5/15/2023,Gujarat Titans,Sunrisers Hyderabad,Sunrisers Hyderabad,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",NULL,NULL,NULL
+1359537,2023,Lucknow,5/16/2023,Lucknow Super Giants,Mumbai Indians,Mumbai Indians,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",NULL,NULL,NULL
+1359538,2023,Dharamsala,5/17/2023,Delhi Capitals,Punjab Kings,Punjab Kings,Delhi Capitals,"Himachal Pradesh Cricket Association Stadium, Dharamsala",NULL,NULL,NULL
+1359539,2023,Hyderabad,5/18/2023,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,Royal Challengers Bangalore,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",NULL,NULL,NULL
+1359540,2023,Dharamsala,5/19/2023,Punjab Kings,Rajasthan Royals,Rajasthan Royals,Rajasthan Royals,"Himachal Pradesh Cricket Association Stadium, Dharamsala",NULL,NULL,NULL
+1359541,2023,Delhi,5/20/2023,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,"Arun Jaitley Stadium, Delhi",NULL,NULL,NULL
+1359542,2023,Kolkata,5/20/2023,Lucknow Super Giants,Kolkata Knight Riders,Kolkata Knight Riders,Lucknow Super Giants,"Eden Gardens, Kolkata",NULL,NULL,NULL
+1359543,2023,Mumbai,5/21/2023,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,Mumbai Indians,"Wankhede Stadium, Mumbai",NULL,NULL,NULL
+1359544,2023,Bengaluru,5/21/2023,Royal Challengers Bangalore,Gujarat Titans,Gujarat Titans,Gujarat Titans,"M Chinnaswamy Stadium, Bengaluru",NULL,NULL,NULL
+1370350,2023,Chennai,5/23/2023,Chennai Super Kings,Gujarat Titans,Gujarat Titans,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",NULL,NULL,NULL
+1370351,2023,Chennai,5/24/2023,Mumbai Indians,Lucknow Super Giants,Mumbai Indians,Mumbai Indians,"MA Chidambaram Stadium, Chepauk, Chennai",NULL,NULL,NULL
+1370352,2023,Ahmedabad,5/26/2023,Gujarat Titans,Mumbai Indians,Mumbai Indians,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",NULL,NULL,NULL
+1370353,2023,Ahmedabad,5/29/2023,Gujarat Titans,Chennai Super Kings,Chennai Super Kings,Chennai Super Kings,"Narendra Modi Stadium, Ahmedabad",NULL,NULL,NULL
+1422119,2024,Chennai,3/22/2024,Royal Challengers Bengaluru,Chennai Super Kings,Royal Challengers Bengaluru,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",NULL,NULL,NULL
+1422120,2024,Mohali,3/23/2024,Delhi Capitals,Punjab Kings,Punjab Kings,Punjab Kings,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",NULL,NULL,NULL
+1422122,2024,Jaipur,3/24/2024,Rajasthan Royals,Lucknow Super Giants,Rajasthan Royals,Rajasthan Royals,"Sawai Mansingh Stadium, Jaipur",NULL,NULL,NULL
+1422123,2024,Ahmedabad,3/24/2024,Gujarat Titans,Mumbai Indians,Mumbai Indians,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",NULL,NULL,NULL
+1422124,2024,Bengaluru,3/25/2024,Punjab Kings,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Royal Challengers Bengaluru,"M Chinnaswamy Stadium, Bengaluru",NULL,NULL,NULL
+1422125,2024,Chennai,3/26/2024,Chennai Super Kings,Gujarat Titans,Gujarat Titans,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",NULL,NULL,NULL
+1422126,2024,Hyderabad,3/27/2024,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",NULL,NULL,NULL
+1422127,2024,Jaipur,3/28/2024,Rajasthan Royals,Delhi Capitals,Delhi Capitals,Rajasthan Royals,"Sawai Mansingh Stadium, Jaipur",NULL,NULL,NULL
+1422128,2024,Bengaluru,3/29/2024,Royal Challengers Bengaluru,Kolkata Knight Riders,Kolkata Knight Riders,Kolkata Knight Riders,"M Chinnaswamy Stadium, Bengaluru",NULL,NULL,NULL
+1422129,2024,Lucknow,3/30/2024,Lucknow Super Giants,Punjab Kings,Lucknow Super Giants,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",NULL,NULL,NULL
+1422130,2024,Ahmedabad,3/31/2024,Sunrisers Hyderabad,Gujarat Titans,Sunrisers Hyderabad,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",NULL,NULL,NULL
+1422131,2024,Visakhapatnam,3/31/2024,Delhi Capitals,Chennai Super Kings,Delhi Capitals,Delhi Capitals,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",NULL,NULL,NULL
+1422132,2024,Mumbai,4/1/2024,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,Rajasthan Royals,"Wankhede Stadium, Mumbai",NULL,NULL,NULL
+1422133,2024,Bengaluru,4/2/2024,Lucknow Super Giants,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Lucknow Super Giants,"M Chinnaswamy Stadium, Bengaluru",NULL,NULL,NULL
+1422134,2024,Visakhapatnam,4/3/2024,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",NULL,NULL,NULL
+1422135,2024,Ahmedabad,4/4/2024,Gujarat Titans,Punjab Kings,Punjab Kings,Punjab Kings,"Narendra Modi Stadium, Ahmedabad",NULL,NULL,NULL
+1422136,2024,Hyderabad,4/5/2024,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",NULL,NULL,NULL
+1422137,2024,Jaipur,4/6/2024,Royal Challengers Bengaluru,Rajasthan Royals,Rajasthan Royals,Rajasthan Royals,"Sawai Mansingh Stadium, Jaipur",NULL,NULL,NULL
+1422138,2024,Mumbai,4/7/2024,Mumbai Indians,Delhi Capitals,Delhi Capitals,Mumbai Indians,"Wankhede Stadium, Mumbai",NULL,NULL,NULL
+1422139,2024,Lucknow,4/7/2024,Lucknow Super Giants,Gujarat Titans,Lucknow Super Giants,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",NULL,NULL,NULL
+1426260,2024,Chennai,4/8/2024,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",NULL,NULL,NULL
+1426261,2024,Mohali,4/9/2024,Sunrisers Hyderabad,Punjab Kings,Punjab Kings,Sunrisers Hyderabad,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",NULL,NULL,NULL
+1426262,2024,Jaipur,4/10/2024,Rajasthan Royals,Gujarat Titans,Gujarat Titans,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",NULL,NULL,NULL
+1426263,2024,Mumbai,4/11/2024,Royal Challengers Bengaluru,Mumbai Indians,Mumbai Indians,Mumbai Indians,"Wankhede Stadium, Mumbai",NULL,NULL,NULL
+1426264,2024,Lucknow,4/12/2024,Lucknow Super Giants,Delhi Capitals,Lucknow Super Giants,Delhi Capitals,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",NULL,NULL,NULL
+1426265,2024,Mohali,4/13/2024,Punjab Kings,Rajasthan Royals,Rajasthan Royals,Rajasthan Royals,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",NULL,NULL,NULL
+1426266,2024,Kolkata,4/14/2024,Lucknow Super Giants,Kolkata Knight Riders,Kolkata Knight Riders,Kolkata Knight Riders,"Eden Gardens, Kolkata",NULL,NULL,NULL
+1426267,2024,Mumbai,4/14/2024,Chennai Super Kings,Mumbai Indians,Mumbai Indians,Chennai Super Kings,"Wankhede Stadium, Mumbai",NULL,NULL,NULL
+1426268,2024,Bengaluru,4/15/2024,Sunrisers Hyderabad,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Sunrisers Hyderabad,"M Chinnaswamy Stadium, Bengaluru",NULL,NULL,NULL
+1426269,2024,Kolkata,4/16/2024,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,Rajasthan Royals,"Eden Gardens, Kolkata",NULL,NULL,NULL
+1426270,2024,Ahmedabad,4/17/2024,Gujarat Titans,Delhi Capitals,Delhi Capitals,Delhi Capitals,"Narendra Modi Stadium, Ahmedabad",NULL,NULL,NULL
+1426271,2024,Mohali,4/18/2024,Mumbai Indians,Punjab Kings,Punjab Kings,Mumbai Indians,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",NULL,NULL,NULL
+1426272,2024,Lucknow,4/19/2024,Chennai Super Kings,Lucknow Super Giants,Lucknow Super Giants,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",NULL,NULL,NULL
+1426273,2024,Delhi,4/20/2024,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,Sunrisers Hyderabad,"Arun Jaitley Stadium, Delhi",NULL,NULL,NULL
+1426274,2024,Kolkata,4/21/2024,Kolkata Knight Riders,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Kolkata Knight Riders,"Eden Gardens, Kolkata",NULL,NULL,NULL
+1426275,2024,Mohali,4/21/2024,Punjab Kings,Gujarat Titans,Punjab Kings,Gujarat Titans,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",NULL,NULL,NULL
+1426276,2024,Jaipur,4/22/2024,Mumbai Indians,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,"Sawai Mansingh Stadium, Jaipur",NULL,NULL,NULL
+1426277,2024,Chennai,4/23/2024,Chennai Super Kings,Lucknow Super Giants,Lucknow Super Giants,Lucknow Super Giants,"MA Chidambaram Stadium, Chepauk, Chennai",NULL,NULL,NULL
+1426278,2024,Delhi,4/24/2024,Delhi Capitals,Gujarat Titans,Gujarat Titans,Delhi Capitals,"Arun Jaitley Stadium, Delhi",NULL,NULL,NULL
+1426279,2024,Hyderabad,4/25/2024,Royal Challengers Bengaluru,Sunrisers Hyderabad,Royal Challengers Bengaluru,Royal Challengers Bengaluru,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",NULL,NULL,NULL
+1426280,2024,Kolkata,4/26/2024,Kolkata Knight Riders,Punjab Kings,Punjab Kings,Punjab Kings,"Eden Gardens, Kolkata",NULL,NULL,NULL
+1426281,2024,Delhi,4/27/2024,Delhi Capitals,Mumbai Indians,Mumbai Indians,Delhi Capitals,"Arun Jaitley Stadium, Delhi",NULL,NULL,NULL
+1426282,2024,Lucknow,4/27/2024,Lucknow Super Giants,Rajasthan Royals,Rajasthan Royals,Rajasthan Royals,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",NULL,NULL,NULL
+1426283,2024,Ahmedabad,4/28/2024,Gujarat Titans,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Royal Challengers Bengaluru,"Narendra Modi Stadium, Ahmedabad",NULL,NULL,NULL
+1426284,2024,Chennai,4/28/2024,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",NULL,NULL,NULL
+1426285,2024,Kolkata,4/29/2024,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,"Eden Gardens, Kolkata",NULL,NULL,NULL
+1426286,2024,Lucknow,4/30/2024,Mumbai Indians,Lucknow Super Giants,Lucknow Super Giants,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",NULL,NULL,NULL
+1426287,2024,Chennai,5/1/2024,Chennai Super Kings,Punjab Kings,Punjab Kings,Punjab Kings,"MA Chidambaram Stadium, Chepauk, Chennai",NULL,NULL,NULL
+1426288,2024,Hyderabad,5/2/2024,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",NULL,NULL,NULL
+1426289,2024,Mumbai,5/3/2024,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,Kolkata Knight Riders,"Wankhede Stadium, Mumbai",NULL,NULL,NULL
+1426290,2024,Bengaluru,5/4/2024,Gujarat Titans,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Royal Challengers Bengaluru,"M Chinnaswamy Stadium, Bengaluru",NULL,NULL,NULL
+1426291,2024,Dharamsala,5/5/2024,Chennai Super Kings,Punjab Kings,Punjab Kings,Chennai Super Kings,"Himachal Pradesh Cricket Association Stadium, Dharamsala",NULL,NULL,NULL
+1426292,2024,Lucknow,5/5/2024,Kolkata Knight Riders,Lucknow Super Giants,Lucknow Super Giants,Kolkata Knight Riders,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",NULL,NULL,NULL
+1426293,2024,Mumbai,5/6/2024,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,Mumbai Indians,"Wankhede Stadium, Mumbai",NULL,NULL,NULL
+1426294,2024,Delhi,5/7/2024,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,Delhi Capitals,"Arun Jaitley Stadium, Delhi",NULL,NULL,NULL
+1426295,2024,Hyderabad,5/8/2024,Lucknow Super Giants,Sunrisers Hyderabad,Lucknow Super Giants,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",NULL,NULL,NULL
+1426296,2024,Dharamsala,5/9/2024,Royal Challengers Bengaluru,Punjab Kings,Punjab Kings,Royal Challengers Bengaluru,"Himachal Pradesh Cricket Association Stadium, Dharamsala",NULL,NULL,NULL
+1426297,2024,Ahmedabad,5/10/2024,Gujarat Titans,Chennai Super Kings,Chennai Super Kings,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",NULL,NULL,NULL
+1426298,2024,Kolkata,5/11/2024,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,Kolkata Knight Riders,"Eden Gardens, Kolkata",NULL,NULL,NULL
+1426299,2024,Chennai,5/12/2024,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",NULL,NULL,NULL
+1426300,2024,Bengaluru,5/12/2024,Royal Challengers Bengaluru,Delhi Capitals,Delhi Capitals,Royal Challengers Bengaluru,"M Chinnaswamy Stadium, Bengaluru",NULL,NULL,NULL
+1426302,2024,Delhi,5/14/2024,Delhi Capitals,Lucknow Super Giants,Lucknow Super Giants,Delhi Capitals,"Arun Jaitley Stadium, Delhi",NULL,NULL,NULL
+1426303,2024,Guwahati,5/15/2024,Rajasthan Royals,Punjab Kings,Rajasthan Royals,Punjab Kings,"Barsapara Cricket Stadium, Guwahati",NULL,NULL,NULL
+1426305,2024,Mumbai,5/17/2024,Lucknow Super Giants,Mumbai Indians,Mumbai Indians,Lucknow Super Giants,"Wankhede Stadium, Mumbai",NULL,NULL,NULL
+1426306,2024,Bengaluru,5/18/2024,Royal Challengers Bengaluru,Chennai Super Kings,Chennai Super Kings,Royal Challengers Bengaluru,"M Chinnaswamy Stadium, Bengaluru",NULL,NULL,NULL
+1426307,2024,Hyderabad,5/19/2024,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",NULL,NULL,NULL
+1426309,2024,Ahmedabad,5/21/2024,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,"Narendra Modi Stadium, Ahmedabad",NULL,NULL,NULL
+1426310,2024,Ahmedabad,5/22/2024,Royal Challengers Bengaluru,Rajasthan Royals,Rajasthan Royals,Rajasthan Royals,"Narendra Modi Stadium, Ahmedabad",NULL,NULL,NULL
+1426311,2024,Chennai,5/24/2024,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,Sunrisers Hyderabad,"MA Chidambaram Stadium, Chepauk, Chennai",NULL,NULL,NULL
+1426312,2024,Chennai,5/26/2024,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,"MA Chidambaram Stadium, Chepauk, Chennai",NULL,NULL,NULL
+335982,2007/08,Bangalore,4/18/2008,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,M Chinnaswamy Stadium,LIVE,NULL,12:52.6
+335988,2007/08,Hyderabad,4/22/2008,Deccan Chargers,Delhi Daredevils,Deccan Chargers,Delhi Daredevils,"Rajiv Gandhi International Stadium, Uppal",LIVE,NULL,13:22.6
+335995,2007/08,Chandigarh,4/27/2008,Kings XI Punjab,Delhi Daredevils,Delhi Daredevils,Kings XI Punjab,"Punjab Cricket Association Stadium, Mohali",LIVE,NULL,13:57.7

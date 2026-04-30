@@ -15,7 +15,7 @@ Top performing teams visualization
 Tech Stack:
 Power BI -- Data Visualization
 DAX -- Calculated Measures and Dynamic Insights
-PostgreSQL -- Data Storage
+PostgreSQL -- Data Creation and Data Storing
 Python --  Real Time Simulation script
 CSV(Kaggle IPL Dataset) -- Historical data source
 
@@ -24,6 +24,15 @@ Historical IPL dataset loaded from kaggle
 Data stored in PostgreSQL database
 Python script simulates live matche updates
 Power BI connected to dataset for visualization 
+
+Data Flow:
+Collected raw IPL dataset from Kaggle
+Loaded data into PostgreSQL database
+Performed data augmentation and transformation using SQL (table creation, updates, analytical Queries)
+Simulated real-time match dta using Python integrated with PostgreSQL
+Applied further data transformation and cleaning 
+Exported processed data to CSV format
+Built an interactiove dashboard using DAX for dynamic inights and visualization
 
 How To Use:
 Open the .pbix file in Power BI Desktop

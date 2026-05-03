@@ -1,62 +1,207 @@
-# IPL-Analytics-Live-Simulation-Dashboard-
-End-to-end IPL analytics project combining historical dataset with simulated real time data ingestion using Python and PostgreSQL, visualized through an interactive Power BI dashboard with dynamic head-to-head insights and KPI's.
+#  IPL Analytics Live Simulation Dashboard
 
-Overview:
-This project is an end-to-end IPL analytics dashboard built using Power BI. It combines historical IPL match data with simulated real-time data ingestion using Python and PostgreSQL. The dashboard enables interactive analysis of team performance with dynamic insights.
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Processing-lightgrey?logo=pandas)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-316192?logo=postgresql)
+![Power BI](https://img.shields.io/badge/PowerBI-Dashboard-F2C811?logo=powerbi)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-blue)
 
-Key Features:
-Interactive Team VS Team (head-to-head) comparison
-Dynamic KPI cards(Total Matches, Wins, Win %, Diffrence)
-Simulated real-time data updates using Python
-Automated insights generation using DAX
-Toss Impact analysis
-Top performing teams visualization
+> A Business Intelligence dashboard that simulates IPL match outcomes using historical data (2008–2025), enabling head-to-head team analysis, win percentage benchmarking, and data-driven strategic insights using Python, PostgreSQL, and Power BI.
 
-Tech Stack:
-Power BI -- Data Visualization
-DAX -- Calculated Measures and Dynamic Insights
-PostgreSQL -- Data Creation and Data Storing
-Python --  Real Time Simulation script
-CSV(Kaggle IPL Dataset) -- Historical data source
+---
 
-Data Pipeline:
-Historical IPL dataset loaded from kaggle
-Data stored in PostgreSQL database
-Python script simulates live matche updates
-Power BI connected to dataset for visualization 
+##  Business Problem Statement
 
-Data Flow:
-Collected raw IPL dataset from Kaggle
-Loaded data into PostgreSQL database
-Performed data augmentation and transformation using SQL (table creation, updates, analytical Queries)
-Simulated real-time match dta using Python integrated with PostgreSQL
-Applied further data transformation and cleaning 
-Exported processed data to CSV format
-Built an interactiove dashboard using DAX for dynamic inights and visualization
+IPL teams and analysts often work with scattered match data that makes head-to-head comparison, dominance analysis, and performance benchmarking difficult. Manual analysis is time-consuming and does not provide a clear dashboard view for fast decision-making.
 
-How To Use:
-Open the .pbix file in Power BI Desktop
-Select Team 1 and Team 2 using slicers
-View dynamic charts, KPI's, and insights
-Observe how data changes based on selection
+This project solves that problem by transforming static IPL match data into a structured analytics dashboard with simulation logic. It presents team-vs-team insights, win percentage trends, and dominance metrics in an interactive Power BI report.
 
-Key Insight Example:
-Chennai Super Kings dominates Royal Challengers Bangalore in head-to-head matches based on historical data.
+---
 
-Project Structure:
-IPL_dashboard.pbix -- Power BI dashboard
-simulate_live.py -- Python script for data simulation
-dataset.csv -- IPL dataset
-README.md -- Project Documentation
+##  Project Objective
 
-Learning Outcome:
-Built an end-to-end data analysis project
-Implemented DAX for dynamic calculations
-Designefd interactive dashboards
-Simulated real time data pipelines
+- Build an end-to-end analytics workflow using Python, SQL, PostgreSQL, and Power BI
+- Clean and transform raw IPL data from Kaggle CSV files
+- Store structured data in PostgreSQL for analysis
+- Create an interactive dashboard for head-to-head team performance analysis
+- Simulate live dashboard behavior using timer-delay logic
+- Generate business-friendly KPI insights for quick interpretation
 
-Note:
-This project uses simulated real-time data not actual live IPL feeds.
+---
 
-Contact:
-Feel free to connect for feedback or collabration.
+##  Tech Stack
+
+| Tool / Technology | Purpose |
+|---|---|
+| Python 3.10 | Data processing and simulation logic |
+| Pandas | Data cleaning, formatting, sorting, transformation |
+| SQL | Querying and relational logic |
+| PostgreSQL | Database storage and structured data management |
+| Power BI | Interactive dashboard and KPI visualizations |
+| CSV Files | Static IPL dataset source |
+| Kaggle | Dataset source platform |
+
+---
+
+##  Files Used
+
+- Python files: `.py`
+- Database file: `database_setup.sql`
+- Data source: CSV files
+- Dashboard tool: Power BI
+- Requirements file: Not available
+
+---
+
+##  Data Pipeline
+
+```text
+Kaggle CSV Data
+   ↓
+Python + Pandas Cleaning
+   ↓
+Formatting + Sorting + Null Removal
+   ↓
+Load into PostgreSQL
+   ↓
+Power BI Dashboard
+   ↓
+Simulation with Timer Delay
+```
+
+### Data Cleaning Steps
+- Removed null values
+- Applied formatting corrections
+- Sorted the dataset for structured analysis
+
+---
+
+##  Dashboard Features
+
+### Visuals Included
+- Stacked column chart
+- Stacked bar chart
+- KPI cards
+
+### Filters
+- By Team
+- By IPL Season
+
+### IPL Season Coverage
+- 2008 to 2025
+
+### Data Type
+- Static historical data
+- Simulated dashboard behavior using timer delay
+
+---
+
+##  KPI Metrics
+
+- Total Teams
+- Team 1
+- Team 2
+- Win %
+- Win Difference
+- Winner Team
+- KPI text card showing which team dominates the other by a specific number of wins
+
+---
+
+##  Key Findings
+
+- Win percentage helps identify which team performs better in a selected head-to-head comparison
+- Win difference clearly shows the dominance gap between Team 1 and Team 2
+- Head-to-head winner analysis highlights which franchise has historically won more matches
+- The winner team name updates dynamically based on the selected teams
+- KPI text cards improve stakeholder understanding by directly stating which team dominates the other and by how many wins
+
+---
+
+##  STAR Project Summary
+
+| STAR Element | Description |
+|---|---|
+| Situation | IPL match data was available in static format and did not provide a direct way to analyze team rivalries or dominance trends |
+| Task | Build a dashboard that can compare teams, track win percentage, and simulate a more dynamic analytics experience |
+| Action | Cleaned Kaggle CSV data using Pandas, stored it in PostgreSQL, used SQL for structuring analysis, and built an interactive Power BI dashboard with KPI cards, charts, and filters |
+| Result | Created a dashboard that allows users to analyze IPL team rivalries from 2008 to 2025 with clear KPI-driven insights and simulation-based interaction |
+
+---
+
+##  How to Use the Project
+
+Since this is a Power BI dashboard project, the main way to use it is:
+
+1. Open the dataset and database setup files
+2. Run the Python scripts used for cleaning and preparing the data
+3. Load the structured data into PostgreSQL
+4. Connect Power BI to PostgreSQL or the processed dataset
+5. Open the Power BI dashboard file and interact with the visuals
+
+### Command Guidance
+If your `.py` file is used for data preparation, the command is usually:
+
+```bash
+python filename.py
+```
+
+If your dashboard is only in Power BI, there is no special terminal run command like Streamlit. You mainly open the `.pbix` file in Power BI Desktop and refresh the data connection.
+
+---
+
+##  Suggested Project Structure
+
+```text
+IPL-Analytics-Live-Simulation-Dashboard/
+│
+├── data/
+├── scripts/
+├── database_setup.sql
+├── dashboard/
+├── assets/
+└── README.md
+```
+
+---
+
+##  Future Improvements
+
+- Add real-time live IPL API integration
+- Include player-level KPIs such as strike rate and economy rate
+- Add predictive analytics for match winner prediction
+- Publish the dashboard through Power BI Service
+- Add more advanced simulation controls
+
+---
+
+##  Skills Demonstrated
+
+- Data Cleaning
+- Data Transformation
+- SQL Querying
+- PostgreSQL
+- Dashboard Development
+- KPI Design
+- Business Intelligence
+- Data Visualization
+- Head-to-Head Analysis
+- Simulation-Based Reporting
+- Power BI
+- Python
+- Pandas
+
+---
+
+##  Connect With Me
+
+**Pratik Badgujar**
+
+ Email: badgujarp121@gmail.com  
+ [LinkedIn](https://www.linkedin.com/in/pratikbadgujar22/)  
+ [GitHub](https://github.com/Pratik-Badgujar-22)
+
+---
+
+> This project highlights practical data analytics skills in Python, SQL, PostgreSQL, and Power BI, with a strong focus on KPI dashboards, business intelligence, and sports analytics use cases.
